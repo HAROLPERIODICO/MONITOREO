@@ -1,0 +1,599 @@
+{
+ "__inputs": [
+  {
+   "name": "DS_READYLINE",
+   "label": "ReadyLine (InfluxDB)",
+   "description": "Seleccione ReadyLine-Node1",
+   "type": "datasource",
+   "pluginId": "influxdb",
+   "pluginName": "InfluxDB"
+  }
+ ],
+ "__requires": [
+  {
+   "type": "datasource",
+   "id": "influxdb",
+   "name": "InfluxDB",
+   "version": "1.0.0"
+  },
+  {
+   "type": "panel",
+   "id": "table",
+   "name": "Table",
+   "version": ""
+  },
+  {
+   "type": "panel",
+   "id": "timeseries",
+   "name": "Time series",
+   "version": ""
+  }
+ ],
+ "uid": "drenaje-ex3600",
+ "title": "Monitoreo · Presión de Drenaje EX3600",
+ "tags": [
+  "monitoreo",
+  "drenaje",
+  "EX3600",
+  "CHM"
+ ],
+ "timezone": "browser",
+ "editable": true,
+ "schemaVersion": 36,
+ "version": 3,
+ "refresh": "5m",
+ "time": {
+  "from": "now-6h",
+  "to": "now"
+ },
+ "templating": {
+  "list": [
+   {
+    "name": "medicion",
+    "label": "Modelo",
+    "type": "custom",
+    "query": "EX3600-6 : HCM_EX3600-6_EX-6,EX3600-7 : HCM_EX3600-7-CMS_EX-7-CMS-L-ENDIAN",
+    "current": {
+     "text": "EX3600-6",
+     "value": "HCM_EX3600-6_EX-6"
+    },
+    "options": [
+     {
+      "text": "EX3600-6",
+      "value": "HCM_EX3600-6_EX-6",
+      "selected": true
+     },
+     {
+      "text": "EX3600-7",
+      "value": "HCM_EX3600-7-CMS_EX-7-CMS-L-ENDIAN",
+      "selected": false
+     }
+    ]
+   },
+   {
+    "name": "equipo",
+    "label": "Equipo",
+    "type": "query",
+    "datasource": {
+     "type": "influxdb",
+     "uid": "${DS_READYLINE}"
+    },
+    "query": "SHOW TAG VALUES FROM \"$medicion\" WITH KEY = \"equip_id\"",
+    "definition": "SHOW TAG VALUES FROM \"$medicion\" WITH KEY = \"equip_id\"",
+    "refresh": 1,
+    "multi": true,
+    "includeAll": true,
+    "regex": "/^I\\d+$/",
+    "sort": 3,
+    "current": {
+     "text": [
+      "All"
+     ],
+     "value": [
+      "$__all"
+     ]
+    }
+   },
+   {
+    "name": "bomba",
+    "label": "Bomba a comparar",
+    "type": "custom",
+    "query": "B_1 : Drain Pressure #1 of Left Pump,B_2 : Drain Pressure #2 of Left Pump,B_3 : Drain Pressure #3 of Left Pump,B_4 : Drain Pressure #4 of Left Pump,B_5 : Drain Pressure #5 of Left Pump,B_6 : Drain Pressure #6 of Left Pump,B_7 : Drain Pressure #7 of Left Pump,B_8 : Drain Pressure #8 of Left Pump,G_1 : Drain Pressure #1 of Swing Motor,G_2 : Drain Pressure #2 of Swing Motor,G_3 : Drain Pressure #3 of Swing Motor,G_4 : Drain Pressure #4 of Swing Motor",
+    "current": {
+     "text": "B_1",
+     "value": "Drain Pressure #1 of Left Pump"
+    },
+    "options": [
+     {
+      "text": "B_1",
+      "value": "Drain Pressure #1 of Left Pump",
+      "selected": true
+     },
+     {
+      "text": "B_2",
+      "value": "Drain Pressure #2 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "B_3",
+      "value": "Drain Pressure #3 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "B_4",
+      "value": "Drain Pressure #4 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "B_5",
+      "value": "Drain Pressure #5 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "B_6",
+      "value": "Drain Pressure #6 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "B_7",
+      "value": "Drain Pressure #7 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "B_8",
+      "value": "Drain Pressure #8 of Left Pump",
+      "selected": false
+     },
+     {
+      "text": "G_1",
+      "value": "Drain Pressure #1 of Swing Motor",
+      "selected": false
+     },
+     {
+      "text": "G_2",
+      "value": "Drain Pressure #2 of Swing Motor",
+      "selected": false
+     },
+     {
+      "text": "G_3",
+      "value": "Drain Pressure #3 of Swing Motor",
+      "selected": false
+     },
+     {
+      "text": "G_4",
+      "value": "Drain Pressure #4 of Swing Motor",
+      "selected": false
+     }
+    ]
+   }
+  ]
+ },
+ "annotations": {
+  "list": []
+ },
+ "panels": [
+  {
+   "id": 1,
+   "type": "row",
+   "title": "Estado actual del drenaje (semáforo por bomba)",
+   "collapsed": false,
+   "gridPos": {
+    "x": 0,
+    "y": 0,
+    "w": 24,
+    "h": 1
+   },
+   "panels": []
+  },
+  {
+   "id": 2,
+   "type": "table",
+   "title": "Semáforo · p95 de la presión de drenaje en el periodo (MPa) · B = bombas, G = motores de giro",
+   "description": "Verde < 0.17 · Amarillo (advertencia) 0.17–0.24 · Rojo (crítico) 0.25–0.40 · Granate = sensor pegado en el techo (> 0.40). El p95 incluye periodos con motor apagado; para el diagnóstico fino use el reporte del notebook.",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 1,
+    "w": 24,
+    "h": 11
+   },
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "table",
+     "query": "SELECT percentile(\"Drain Pressure #1 of Left Pump\", 95) AS \"B_1\", percentile(\"Drain Pressure #2 of Left Pump\", 95) AS \"B_2\", percentile(\"Drain Pressure #3 of Left Pump\", 95) AS \"B_3\", percentile(\"Drain Pressure #4 of Left Pump\", 95) AS \"B_4\", percentile(\"Drain Pressure #5 of Left Pump\", 95) AS \"B_5\", percentile(\"Drain Pressure #6 of Left Pump\", 95) AS \"B_6\", percentile(\"Drain Pressure #7 of Left Pump\", 95) AS \"B_7\", percentile(\"Drain Pressure #8 of Left Pump\", 95) AS \"B_8\", percentile(\"Drain Pressure #1 of Swing Motor\", 95) AS \"G_1\", percentile(\"Drain Pressure #2 of Swing Motor\", 95) AS \"G_2\", percentile(\"Drain Pressure #3 of Swing Motor\", 95) AS \"G_3\", percentile(\"Drain Pressure #4 of Swing Motor\", 95) AS \"G_4\" FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY \"equip_id\""
+    }
+   ],
+   "transformations": [
+    {
+     "id": "organize",
+     "options": {
+      "excludeByName": {
+       "Time": true
+      },
+      "renameByName": {
+       "equip_id": "Equipo"
+      }
+     }
+    },
+    {
+     "id": "sortBy",
+     "options": {
+      "sort": [
+       {
+        "field": "Equipo"
+       }
+      ]
+     }
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "none",
+     "decimals": 3,
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "green",
+        "value": null
+       },
+       {
+        "color": "#FADE2A",
+        "value": 0.17
+       },
+       {
+        "color": "red",
+        "value": 0.25
+       },
+       {
+        "color": "#6E0A0A",
+        "value": 0.4
+       }
+      ]
+     },
+     "custom": {
+      "align": "center",
+      "displayMode": "color-background",
+      "cellOptions": {
+       "type": "color-background",
+       "mode": "basic"
+      }
+     }
+    },
+    "overrides": [
+     {
+      "matcher": {
+       "id": "byName",
+       "options": "Equipo"
+      },
+      "properties": [
+       {
+        "id": "custom.displayMode",
+        "value": "auto"
+       },
+       {
+        "id": "custom.cellOptions",
+        "value": {
+         "type": "auto"
+        }
+       },
+       {
+        "id": "custom.width",
+        "value": 90
+       }
+      ]
+     }
+    ]
+   },
+   "options": {
+    "showHeader": true,
+    "cellHeight": "sm"
+   },
+   "interval": "20s"
+  },
+  {
+   "id": 3,
+   "type": "row",
+   "title": "Presión de drenaje por pala (una gráfica por equipo seleccionado)",
+   "collapsed": false,
+   "gridPos": {
+    "x": 0,
+    "y": 12,
+    "w": 24,
+    "h": 1
+   },
+   "panels": []
+  },
+  {
+   "id": 4,
+   "type": "timeseries",
+   "title": "Drenaje · $equipo",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 13,
+    "w": 8,
+    "h": 8
+   },
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "alias": "$col",
+     "query": "SELECT mean(\"Drain Pressure #1 of Left Pump\") AS \"B_1\", mean(\"Drain Pressure #2 of Left Pump\") AS \"B_2\", mean(\"Drain Pressure #3 of Left Pump\") AS \"B_3\", mean(\"Drain Pressure #4 of Left Pump\") AS \"B_4\", mean(\"Drain Pressure #5 of Left Pump\") AS \"B_5\", mean(\"Drain Pressure #6 of Left Pump\") AS \"B_6\", mean(\"Drain Pressure #7 of Left Pump\") AS \"B_7\", mean(\"Drain Pressure #8 of Left Pump\") AS \"B_8\", mean(\"Drain Pressure #1 of Swing Motor\") AS \"G_1\", mean(\"Drain Pressure #2 of Swing Motor\") AS \"G_2\", mean(\"Drain Pressure #3 of Swing Motor\") AS \"G_3\", mean(\"Drain Pressure #4 of Swing Motor\") AS \"G_4\" FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY time($__interval) fill(null)"
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "none",
+     "decimals": 3,
+     "min": 0,
+     "custom": {
+      "drawStyle": "line",
+      "lineWidth": 1,
+      "fillOpacity": 0,
+      "spanNulls": false,
+      "showPoints": "never",
+      "thresholdsStyle": {
+       "mode": "dashed"
+      }
+     },
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "green",
+        "value": null
+       },
+       {
+        "color": "#FADE2A",
+        "value": 0.17
+       },
+       {
+        "color": "red",
+        "value": 0.25
+       },
+       {
+        "color": "#6E0A0A",
+        "value": 0.4
+       }
+      ]
+     },
+     "color": {
+      "mode": "palette-classic"
+     }
+    },
+    "overrides": [
+     {
+      "matcher": {
+       "id": "byRegexp",
+       "options": "G_.*"
+      },
+      "properties": [
+       {
+        "id": "custom.lineStyle",
+        "value": {
+         "fill": "dash",
+         "dash": [
+          10,
+          6
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "options": {
+    "legend": {
+     "displayMode": "table",
+     "placement": "right",
+     "calcs": [
+      "max",
+      "mean",
+      "lastNotNull"
+     ]
+    },
+    "tooltip": {
+     "mode": "multi",
+     "sort": "desc"
+    }
+   },
+   "repeat": "equipo",
+   "repeatDirection": "h",
+   "maxPerRow": 3,
+   "description": "Líneas continuas: bombas B_1–B_8. Líneas punteadas: motores de giro G_1–G_4.",
+   "interval": "20s"
+  },
+  {
+   "id": 5,
+   "type": "row",
+   "title": "Comparar una bomba entre palas",
+   "collapsed": false,
+   "gridPos": {
+    "x": 0,
+    "y": 21,
+    "w": 24,
+    "h": 1
+   },
+   "panels": []
+  },
+  {
+   "id": 6,
+   "type": "timeseries",
+   "title": "$bomba · comparación entre equipos",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 22,
+    "w": 24,
+    "h": 9
+   },
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "alias": "$tag_equip_id",
+     "query": "SELECT mean(\"$bomba\") FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY time($__interval), \"equip_id\" fill(null)"
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "none",
+     "decimals": 3,
+     "min": 0,
+     "custom": {
+      "drawStyle": "line",
+      "lineWidth": 1,
+      "fillOpacity": 0,
+      "spanNulls": false,
+      "showPoints": "never",
+      "thresholdsStyle": {
+       "mode": "dashed"
+      }
+     },
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "green",
+        "value": null
+       },
+       {
+        "color": "#FADE2A",
+        "value": 0.17
+       },
+       {
+        "color": "red",
+        "value": 0.25
+       },
+       {
+        "color": "#6E0A0A",
+        "value": 0.4
+       }
+      ]
+     },
+     "color": {
+      "mode": "palette-classic"
+     }
+    },
+    "overrides": []
+   },
+   "options": {
+    "legend": {
+     "displayMode": "table",
+     "placement": "right",
+     "calcs": [
+      "max",
+      "mean",
+      "lastNotNull"
+     ]
+    },
+    "tooltip": {
+     "mode": "multi",
+     "sort": "desc"
+    }
+   },
+   "interval": "20s"
+  },
+  {
+   "id": 7,
+   "type": "timeseries",
+   "title": "RPM del motor (contexto: con motor apagado el drenaje cae a cero)",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 31,
+    "w": 24,
+    "h": 7
+   },
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "alias": "$tag_equip_id",
+     "query": "SELECT mean(\"Engine Speed of Left Engine\") FROM /^(HCM_EX3600-6_EX-6|HCM_EX-7-J1939_EX-7-L-ENDIAN)$/ WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY time($__interval), \"equip_id\" fill(null)"
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "rotrpm",
+     "decimals": 0,
+     "min": 0,
+     "custom": {
+      "drawStyle": "line",
+      "lineWidth": 1,
+      "fillOpacity": 0,
+      "spanNulls": false,
+      "showPoints": "never",
+      "thresholdsStyle": {
+       "mode": "off"
+      }
+     },
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "green",
+        "value": null
+       }
+      ]
+     },
+     "color": {
+      "mode": "palette-classic"
+     }
+    },
+    "overrides": []
+   },
+   "options": {
+    "legend": {
+     "displayMode": "table",
+     "placement": "right",
+     "calcs": [
+      "max",
+      "mean",
+      "lastNotNull"
+     ]
+    },
+    "tooltip": {
+     "mode": "multi",
+     "sort": "desc"
+    }
+   },
+   "interval": "20s"
+  }
+ ]
+}

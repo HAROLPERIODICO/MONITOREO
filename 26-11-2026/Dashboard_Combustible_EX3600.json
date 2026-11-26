@@ -1,0 +1,609 @@
+{
+ "__inputs": [
+  {
+   "name": "DS_READYLINE",
+   "label": "ReadyLine (InfluxDB)",
+   "description": "Seleccione readyline",
+   "type": "datasource",
+   "pluginId": "influxdb",
+   "pluginName": "InfluxDB"
+  }
+ ],
+ "__requires": [
+  {
+   "type": "datasource",
+   "id": "influxdb",
+   "name": "InfluxDB",
+   "version": "1.0.0"
+  },
+  {
+   "type": "panel",
+   "id": "table",
+   "name": "Table",
+   "version": ""
+  },
+  {
+   "type": "panel",
+   "id": "timeseries",
+   "name": "Time series",
+   "version": ""
+  }
+ ],
+ "title": "Monitoreo · Combustible EX3600",
+ "uid": "combustible-ex3600",
+ "tags": [
+  "readyline",
+  "EX3600",
+  "combustible"
+ ],
+ "timezone": "browser",
+ "schemaVersion": 36,
+ "version": 1,
+ "refresh": "5m",
+ "time": {
+  "from": "now-2d",
+  "to": "now"
+ },
+ "panels": [
+  {
+   "id": 1,
+   "type": "row",
+   "title": "Estado de baterías por pala (semáforo)",
+   "collapsed": false,
+   "gridPos": {
+    "x": 0,
+    "y": 0,
+    "w": 24,
+    "h": 1
+   },
+   "panels": []
+  },
+  {
+   "id": 2,
+   "type": "table",
+   "title": "Semáforo · nivel de combustible y movimiento de la boya en el periodo (%)",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 1,
+    "w": 24,
+    "h": 13
+   },
+   "interval": "10s",
+   "description": "-6: \"Fuel Level Gauge\" (0 Vacío … 6 Lleno, 7 Full) convertido a % (×100/7). -7: \"Fuel Level\" en %. RANGO = máximo − mínimo del periodo: con el equipo operando el nivel baja y se rellena cada ~24 h, así que en 2 días el rango debe ser grande. Rango < 5 % con la pala operando = boya pegada (rojo). Si la pala estuvo en parada, es normal que no se mueva.",
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "table",
+     "query": "SELECT last(\"Fuel Level Gauge\")*100/7 AS \"Último\", min(\"Fuel Level Gauge\")*100/7 AS \"Mínimo\", max(\"Fuel Level Gauge\")*100/7 AS \"Máximo\", spread(\"Fuel Level Gauge\")*100/7 AS \"Rango\" FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY \"equip_id\""
+    },
+    {
+     "refId": "B",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "table",
+     "query": "SELECT last(\"Fuel Level\") AS \"Último\", min(\"Fuel Level\") AS \"Mínimo\", max(\"Fuel Level\") AS \"Máximo\", spread(\"Fuel Level\") AS \"Rango\" FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY \"equip_id\""
+    }
+   ],
+   "transformations": [
+    {
+     "id": "merge",
+     "options": {}
+    },
+    {
+     "id": "organize",
+     "options": {
+      "excludeByName": {
+       "Time": true
+      },
+      "renameByName": {
+       "equip_id": "Equipo"
+      }
+     }
+    },
+    {
+     "id": "sortBy",
+     "options": {
+      "sort": [
+       {
+        "field": "Rango"
+       }
+      ]
+     }
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "percent",
+     "decimals": 0,
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "red",
+        "value": null
+       },
+       {
+        "color": "orange",
+        "value": 15
+       },
+       {
+        "color": "#FADE2A",
+        "value": 30
+       },
+       {
+        "color": "green",
+        "value": 45
+       }
+      ]
+     },
+     "custom": {
+      "align": "center",
+      "displayMode": "color-background",
+      "cellOptions": {
+       "type": "color-background",
+       "mode": "basic"
+      }
+     },
+     "color": {
+      "mode": "thresholds"
+     },
+     "min": 0,
+     "max": 100
+    },
+    "overrides": [
+     {
+      "matcher": {
+       "id": "byName",
+       "options": "Equipo"
+      },
+      "properties": [
+       {
+        "id": "custom.displayMode",
+        "value": "auto"
+       },
+       {
+        "id": "custom.cellOptions",
+        "value": {
+         "type": "auto"
+        }
+       },
+       {
+        "id": "custom.width",
+        "value": 90
+       }
+      ]
+     },
+     {
+      "matcher": {
+       "id": "byName",
+       "options": "Máximo"
+      },
+      "properties": [
+       {
+        "id": "custom.displayMode",
+        "value": "auto"
+       },
+       {
+        "id": "custom.cellOptions",
+        "value": {
+         "type": "auto"
+        }
+       }
+      ]
+     },
+     {
+      "matcher": {
+       "id": "byName",
+       "options": "Rango"
+      },
+      "properties": [
+       {
+        "id": "thresholds",
+        "value": {
+         "mode": "absolute",
+         "steps": [
+          {
+           "color": "red",
+           "value": null
+          },
+          {
+           "color": "#FADE2A",
+           "value": 5
+          },
+          {
+           "color": "green",
+           "value": 20
+          }
+         ]
+        }
+       },
+       {
+        "id": "displayName",
+        "value": "Rango (movimiento boya)"
+       }
+      ]
+     }
+    ]
+   },
+   "options": {
+    "showHeader": true,
+    "cellHeight": "sm"
+   }
+  },
+  {
+   "id": 3,
+   "type": "row",
+   "title": "Nivel por pala (una gráfica por equipo seleccionado)",
+   "collapsed": false,
+   "gridPos": {
+    "x": 0,
+    "y": 14,
+    "w": 24,
+    "h": 1
+   },
+   "panels": []
+  },
+  {
+   "id": 4,
+   "type": "timeseries",
+   "title": "Combustible · $equipo",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 15,
+    "w": 8,
+    "h": 7
+   },
+   "interval": "30s",
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "query": "SELECT mean(\"Fuel Level Gauge\")*100/7 AS \"Nivel\" FROM \"$medicion\" WHERE \"equip_id\" = '$equipo' AND $timeFilter GROUP BY time($__interval) fill(none)",
+     "alias": "$col"
+    },
+    {
+     "refId": "B",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "query": "SELECT mean(\"Fuel Level\") AS \"Nivel\" FROM \"$medicion\" WHERE \"equip_id\" = '$equipo' AND $timeFilter GROUP BY time($__interval) fill(none)",
+     "alias": "$col"
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "percent",
+     "decimals": 0,
+     "custom": {
+      "drawStyle": "line",
+      "lineWidth": 1,
+      "fillOpacity": 0,
+      "spanNulls": 600000,
+      "showPoints": "never",
+      "thresholdsStyle": {
+       "mode": "off"
+      },
+      "lineInterpolation": "linear"
+     },
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "red",
+        "value": null
+       },
+       {
+        "color": "orange",
+        "value": 15
+       },
+       {
+        "color": "#FADE2A",
+        "value": 30
+       },
+       {
+        "color": "green",
+        "value": 45
+       }
+      ]
+     },
+     "color": {
+      "mode": "palette-classic"
+     },
+     "min": 0,
+     "max": 105
+    },
+    "overrides": []
+   },
+   "options": {
+    "legend": {
+     "displayMode": "table",
+     "placement": "right",
+     "calcs": [
+      "min",
+      "mean",
+      "lastNotNull"
+     ]
+    },
+    "tooltip": {
+     "mode": "multi",
+     "sort": "desc"
+    }
+   },
+   "repeat": "equipo",
+   "repeatDirection": "h",
+   "maxPerRow": 3
+  },
+  {
+   "id": 5,
+   "type": "row",
+   "title": "Comparación entre palas",
+   "collapsed": false,
+   "gridPos": {
+    "x": 0,
+    "y": 22,
+    "w": 24,
+    "h": 1
+   },
+   "panels": []
+  },
+  {
+   "id": 6,
+   "type": "timeseries",
+   "title": "Nivel de combustible · comparación entre equipos",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 23,
+    "w": 24,
+    "h": 9
+   },
+   "interval": "30s",
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "query": "SELECT mean(\"Fuel Level Gauge\")*100/7 FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY time($__interval), \"equip_id\" fill(none)",
+     "alias": "$tag_equip_id"
+    },
+    {
+     "refId": "B",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "query": "SELECT mean(\"Fuel Level\") FROM \"$medicion\" WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter GROUP BY time($__interval), \"equip_id\" fill(none)",
+     "alias": "$tag_equip_id"
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "percent",
+     "decimals": 0,
+     "custom": {
+      "drawStyle": "line",
+      "lineWidth": 1,
+      "fillOpacity": 0,
+      "spanNulls": 600000,
+      "showPoints": "never",
+      "thresholdsStyle": {
+       "mode": "off"
+      },
+      "lineInterpolation": "linear"
+     },
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "red",
+        "value": null
+       },
+       {
+        "color": "orange",
+        "value": 15
+       },
+       {
+        "color": "#FADE2A",
+        "value": 30
+       },
+       {
+        "color": "green",
+        "value": 45
+       }
+      ]
+     },
+     "color": {
+      "mode": "palette-classic"
+     },
+     "min": 0,
+     "max": 105
+    },
+    "overrides": []
+   },
+   "options": {
+    "legend": {
+     "displayMode": "table",
+     "placement": "right",
+     "calcs": [
+      "min",
+      "mean",
+      "lastNotNull"
+     ]
+    },
+    "tooltip": {
+     "mode": "multi",
+     "sort": "desc"
+    }
+   }
+  },
+  {
+   "id": 7,
+   "type": "timeseries",
+   "title": "RPM del motor (contexto: si la pala está detenida o en parada, la boya no se mueve)",
+   "datasource": {
+    "type": "influxdb",
+    "uid": "${DS_READYLINE}"
+   },
+   "gridPos": {
+    "x": 0,
+    "y": 32,
+    "w": 24,
+    "h": 7
+   },
+   "interval": "30s",
+   "targets": [
+    {
+     "refId": "A",
+     "datasource": {
+      "type": "influxdb",
+      "uid": "${DS_READYLINE}"
+     },
+     "rawQuery": true,
+     "resultFormat": "time_series",
+     "query": "SELECT mean(\"Engine Speed of Left Engine\") FROM /^(HCM_EX3600-6_EX-6|HCM_EX-7-J1939_EX-7-L-ENDIAN)$/ WHERE \"equip_id\" =~ /^$equipo$/ AND $timeFilter AND \"Engine Speed of Left Engine\" < 2500 GROUP BY time($__interval), \"equip_id\" fill(none)",
+     "alias": "$tag_equip_id"
+    }
+   ],
+   "fieldConfig": {
+    "defaults": {
+     "unit": "rotrpm",
+     "decimals": 0,
+     "custom": {
+      "drawStyle": "line",
+      "lineWidth": 1,
+      "fillOpacity": 0,
+      "spanNulls": 600000,
+      "showPoints": "never",
+      "thresholdsStyle": {
+       "mode": "dashed"
+      },
+      "lineInterpolation": "linear"
+     },
+     "thresholds": {
+      "mode": "absolute",
+      "steps": [
+       {
+        "color": "text",
+        "value": null
+       },
+       {
+        "color": "orange",
+        "value": 800
+       },
+       {
+        "color": "green",
+        "value": 1600
+       }
+      ]
+     },
+     "color": {
+      "mode": "palette-classic"
+     },
+     "min": 0
+    },
+    "overrides": []
+   },
+   "options": {
+    "legend": {
+     "displayMode": "table",
+     "placement": "right",
+     "calcs": [
+      "min",
+      "mean",
+      "lastNotNull"
+     ]
+    },
+    "tooltip": {
+     "mode": "multi",
+     "sort": "desc"
+    }
+   }
+  }
+ ],
+ "templating": {
+  "list": [
+   {
+    "name": "medicion",
+    "label": "Modelo",
+    "type": "custom",
+    "query": "EX3600-6 : HCM_EX3600-6_EX-6,EX3600-7 : HCM_EX3600-7-CMS_EX-7-CMS-L-ENDIAN",
+    "current": {
+     "text": "EX3600-6",
+     "value": "HCM_EX3600-6_EX-6"
+    },
+    "options": [
+     {
+      "text": "EX3600-6",
+      "value": "HCM_EX3600-6_EX-6",
+      "selected": true
+     },
+     {
+      "text": "EX3600-7",
+      "value": "HCM_EX3600-7-CMS_EX-7-CMS-L-ENDIAN",
+      "selected": false
+     }
+    ]
+   },
+   {
+    "name": "equipo",
+    "label": "Equipo",
+    "type": "query",
+    "datasource": {
+     "type": "influxdb",
+     "uid": "${DS_READYLINE}"
+    },
+    "query": "SHOW TAG VALUES FROM \"$medicion\" WITH KEY = \"equip_id\"",
+    "definition": "SHOW TAG VALUES FROM \"$medicion\" WITH KEY = \"equip_id\"",
+    "refresh": 1,
+    "multi": true,
+    "includeAll": true,
+    "regex": "/^I\\d+$/",
+    "sort": 3,
+    "current": {
+     "text": [
+      "All"
+     ],
+     "value": [
+      "$__all"
+     ]
+    }
+   }
+  ]
+ },
+ "annotations": {
+  "list": []
+ }
+}

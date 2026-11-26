@@ -1,0 +1,1443 @@
+﻿"Time","I37 - BOYA","I38 - BOYA","I39 - BOYA","I40 - BOYA","I42 - BOYA","I43 - BOYA","I44 - BOYA","I48 - BOYA","$tag_equip_id - RPM"
+2026-11-24 09:04:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio ,LLeno,1821 rpm
+2026-11-24 09:06:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio ,LLeno,1805 rpm
+2026-11-24 09:08:00,Vacio,,LLeno,Full,,Medio +,Medio ,LLeno,1799 rpm
+2026-11-24 09:10:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio ,LLeno,1749 rpm
+2026-11-24 09:12:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1586 rpm
+2026-11-24 09:14:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1780 rpm
+2026-11-24 09:16:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1814 rpm
+2026-11-24 09:18:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1777 rpm
+2026-11-24 09:20:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1816 rpm
+2026-11-24 09:22:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1782 rpm
+2026-11-24 09:24:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1776 rpm
+2026-11-24 09:26:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1718 rpm
+2026-11-24 09:28:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1715 rpm
+2026-11-24 09:30:00,1.25,,LLeno,6.29,Medio +,Medio +,Medio -,LLeno,1824 rpm
+2026-11-24 09:32:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1828 rpm
+2026-11-24 09:34:00,Vacio,,LLeno,LLeno,,Medio +,Medio -,LLeno,1814 rpm
+2026-11-24 09:36:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1821 rpm
+2026-11-24 09:38:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1711 rpm
+2026-11-24 09:40:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1619 rpm
+2026-11-24 09:42:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1615 rpm
+2026-11-24 09:44:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1649 rpm
+2026-11-24 09:46:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1449 rpm
+2026-11-24 09:48:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1698 rpm
+2026-11-24 09:50:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1699 rpm
+2026-11-24 09:52:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1658 rpm
+2026-11-24 09:54:00,,,LLeno,Medio +,Medio +,Medio +,Medio -,LLeno,1798 rpm
+2026-11-24 09:56:00,Vacio,,LLeno,6.44,Medio +,Medio +,Medio -,LLeno,1826 rpm
+2026-11-24 09:58:00,,,LLeno,6.41,,Medio +,Medio -,LLeno,1821 rpm
+2026-11-24 10:00:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1485 rpm
+2026-11-24 10:02:00,Vacio,,LLeno,5.25,Medio +,Medio +,Medio -,LLeno,1586 rpm
+2026-11-24 10:04:00,,,LLeno,5.35,,Medio +,Medio -,LLeno,1831 rpm
+2026-11-24 10:06:00,Vacio,,LLeno,6.83,Medio +,Medio +,Medio -,LLeno,1833 rpm
+2026-11-24 10:08:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1796 rpm
+2026-11-24 10:10:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1708 rpm
+2026-11-24 10:12:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1775 rpm
+2026-11-24 10:14:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1678 rpm
+2026-11-24 10:16:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1619 rpm
+2026-11-24 10:18:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1564 rpm
+2026-11-24 10:20:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1633 rpm
+2026-11-24 10:22:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1533 rpm
+2026-11-24 10:24:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1649 rpm
+2026-11-24 10:26:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1582 rpm
+2026-11-24 10:28:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1774 rpm
+2026-11-24 10:30:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1758 rpm
+2026-11-24 10:32:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1760 rpm
+2026-11-24 10:34:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1816 rpm
+2026-11-24 10:36:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1516 rpm
+2026-11-24 10:38:00,,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1298 rpm
+2026-11-24 10:40:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1247 rpm
+2026-11-24 10:42:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1304 rpm
+2026-11-24 10:44:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1405 rpm
+2026-11-24 10:46:00,1.67,,LLeno,Full,Vacio,Medio +,Medio -,LLeno,1689 rpm
+2026-11-24 10:48:00,Vacio,,LLeno,Full,4.79,Medio +,Medio -,LLeno,1415 rpm
+2026-11-24 10:50:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1484 rpm
+2026-11-24 10:52:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1490 rpm
+2026-11-24 10:54:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1604 rpm
+2026-11-24 10:56:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1248 rpm
+2026-11-24 10:58:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1641 rpm
+2026-11-24 11:00:00,Vacio,,LLeno,Full,,Medio +,Medio -,LLeno,1670 rpm
+2026-11-24 11:02:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1515 rpm
+2026-11-24 11:04:00,,,LLeno,Full,Medio +,,Medio -,LLeno,1456 rpm
+2026-11-24 11:06:00,,,LLeno,Full,,Medio +,Medio -,LLeno,1322 rpm
+2026-11-24 11:08:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1253 rpm
+2026-11-24 11:10:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1588 rpm
+2026-11-24 11:12:00,,,LLeno,Full,,Medio +,Medio -,LLeno,1555 rpm
+2026-11-24 11:14:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1524 rpm
+2026-11-24 11:16:00,,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1416 rpm
+2026-11-24 11:18:00,,,LLeno,Full,,Medio +,Medio -,LLeno,1431 rpm
+2026-11-24 11:20:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio -,LLeno,1528 rpm
+2026-11-24 11:22:00,Vacio,,LLeno,Full,Vacio,Medio +,2.54,LLeno,1170 rpm
+2026-11-24 11:24:00,Vacio,,LLeno,Full,,Medio +,Bajo,LLeno,1596 rpm
+2026-11-24 11:26:00,Vacio,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1752 rpm
+2026-11-24 11:28:00,Vacio,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1625 rpm
+2026-11-24 11:30:00,Vacio,,LLeno,Full,,Medio +,Bajo,LLeno,1826 rpm
+2026-11-24 11:32:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1630 rpm
+2026-11-24 11:34:00,,,LLeno,Full,,Medio +,Bajo,LLeno,1609 rpm
+2026-11-24 11:36:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1523 rpm
+2026-11-24 11:38:00,Vacio,,LLeno,Full,Vacio,Medio +,Bajo,LLeno,1695 rpm
+2026-11-24 11:40:00,Vacio,,LLeno,Full,,Medio +,Bajo,LLeno,1764 rpm
+2026-11-24 11:42:00,Vacio,,LLeno,Full,Vacio,Medio +,Bajo,LLeno,1697 rpm
+2026-11-24 11:44:00,Vacio,,LLeno,Full,Vacio,Medio +,Bajo,LLeno,1652 rpm
+2026-11-24 11:46:00,Vacio,,LLeno,Full,,Medio +,Bajo,LLeno,1473 rpm
+2026-11-24 11:48:00,Vacio,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1799 rpm
+2026-11-24 11:50:00,Vacio,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1772 rpm
+2026-11-24 11:52:00,1.04,,LLeno,Full,,Medio +,Bajo,LLeno,1639 rpm
+2026-11-24 11:54:00,1.75,,LLeno,Full,Medio +,Medio +,2.21,LLeno,1645 rpm
+2026-11-24 11:56:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1607 rpm
+2026-11-24 11:58:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1814 rpm
+2026-11-24 12:00:00,,,LLeno,Full,4.17,Medio +,Bajo,LLeno,1849 rpm
+2026-11-24 12:02:00,,,LLeno,Full,4.78,Medio +,Bajo,LLeno,1839 rpm
+2026-11-24 12:04:00,,,LLeno,Full,,Medio +,Bajo,LLeno,1845 rpm
+2026-11-24 12:06:00,,,LLeno,Full,,Medio +,Bajo,LLeno,1828 rpm
+2026-11-24 12:08:00,,,LLeno,Full,,Medio +,Bajo,LLeno,1831 rpm
+2026-11-24 12:10:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1810 rpm
+2026-11-24 12:12:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1787 rpm
+2026-11-24 12:14:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1827 rpm
+2026-11-24 12:16:00,,,LLeno,Full,3.42,Medio +,Bajo,LLeno,1833 rpm
+2026-11-24 12:18:00,,,LLeno,Full,,Medio +,Bajo,LLeno,1812 rpm
+2026-11-24 12:20:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1809 rpm
+2026-11-24 12:22:00,,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1821 rpm
+2026-11-24 12:24:00,,,LLeno,Full,,Medio +,Bajo,LLeno,1740 rpm
+2026-11-24 12:26:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1759 rpm
+2026-11-24 12:28:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1744 rpm
+2026-11-24 12:30:00,Full,,LLeno,Full,,Medio +,Bajo,LLeno,1727 rpm
+2026-11-24 12:32:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1662 rpm
+2026-11-24 12:34:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1456 rpm
+2026-11-24 12:36:00,Full,,LLeno,Full,,Medio +,Bajo,LLeno,1420 rpm
+2026-11-24 12:38:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1655 rpm
+2026-11-24 12:40:00,Full,,LLeno,Full,Medio +,Medio +,Bajo,LLeno,1808 rpm
+2026-11-24 12:42:00,Full,,LLeno,Full,Medio +,Medio +,1.43,LLeno,1803 rpm
+2026-11-24 12:44:00,Full,,LLeno,Full,,Medio +,Muy Bajo,LLeno,1799 rpm
+2026-11-24 12:46:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1810 rpm
+2026-11-24 12:48:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1641 rpm
+2026-11-24 12:50:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1488 rpm
+2026-11-24 12:52:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1529 rpm
+2026-11-24 12:54:00,Full,,LLeno,Full,,Medio +,Muy Bajo,LLeno,1671 rpm
+2026-11-24 12:56:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1622 rpm
+2026-11-24 12:58:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1813 rpm
+2026-11-24 13:00:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1608 rpm
+2026-11-24 13:02:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1478 rpm
+2026-11-24 13:04:00,Full,,LLeno,Full,Medio +,Medio +,Muy Bajo,LLeno,1807 rpm
+2026-11-24 13:06:00,Full,,LLeno,Full,,5.22,Muy Bajo,LLeno,1750 rpm
+2026-11-24 13:08:00,Full,,LLeno,Full,Medio +,5.86,Muy Bajo,5.75,1486 rpm
+2026-11-24 13:10:00,Full,,LLeno,Full,Medio +,5.71,Muy Bajo,LLeno,1507 rpm
+2026-11-24 13:12:00,Full,,LLeno,Full,Medio +,,Muy Bajo,LLeno,1656 rpm
+2026-11-24 13:14:00,,,LLeno,Full,Medio +,,Muy Bajo,LLeno,1537 rpm
+2026-11-24 13:16:00,Full,,LLeno,Full,Medio +,,4.48,LLeno,1281 rpm
+2026-11-24 13:18:00,Full,,LLeno,Full,,,4.43,LLeno,1253 rpm
+2026-11-24 13:20:00,Full,,LLeno,Full,Medio +,,Medio ,LLeno,1427 rpm
+2026-11-24 13:22:00,Full,,LLeno,Full,Medio +,,,LLeno,1494 rpm
+2026-11-24 13:24:00,Full,,LLeno,Full,Medio +,,,LLeno,1376 rpm
+2026-11-24 13:26:00,Full,,LLeno,Full,Medio +,,,LLeno,1235 rpm
+2026-11-24 13:28:00,Full,,LLeno,Full,,,,LLeno,1417 rpm
+2026-11-24 13:30:00,Full,,LLeno,Full,Medio +,,,LLeno,1571 rpm
+2026-11-24 13:32:00,Full,,LLeno,Full,Medio +,,,LLeno,1760 rpm
+2026-11-24 13:34:00,,,LLeno,Full,Medio +,,,LLeno,1460 rpm
+2026-11-24 13:36:00,Full,,LLeno,Full,,,,LLeno,1319 rpm
+2026-11-24 13:38:00,,,LLeno,Full,Medio +,Full,,LLeno,1395 rpm
+2026-11-24 13:40:00,Full,,LLeno,Full,Medio +,Full,,LLeno,1322 rpm
+2026-11-24 13:42:00,Full,,LLeno,Full,,Full,,LLeno,1264 rpm
+2026-11-24 13:44:00,,,LLeno,Full,Medio +,6.13,,LLeno,1160 rpm
+2026-11-24 13:46:00,Full,,LLeno,Full,Medio +,Full,,LLeno,1318 rpm
+2026-11-24 13:48:00,,,LLeno,Full,Medio +,Full,,LLeno,1249 rpm
+2026-11-24 13:50:00,,,LLeno,Full,Medio +,,,LLeno,1353 rpm
+2026-11-24 13:52:00,Full,,LLeno,Full,,,,LLeno,1405 rpm
+2026-11-24 13:54:00,,,LLeno,Full,Medio +,,,LLeno,1411 rpm
+2026-11-24 13:56:00,Full,,LLeno,Full,Medio +,,,LLeno,1460 rpm
+2026-11-24 13:58:00,Full,,LLeno,Full,,,,LLeno,1519 rpm
+2026-11-24 14:00:00,,,LLeno,Full,Medio +,,,LLeno,1414 rpm
+2026-11-24 14:02:00,LLeno,,LLeno,Full,Medio +,,Full,LLeno,1400 rpm
+2026-11-24 14:04:00,6.25,,LLeno,Full,,,Full,LLeno,1664 rpm
+2026-11-24 14:06:00,6.71,,LLeno,Full,Medio +,Full,Full,LLeno,1665 rpm
+2026-11-24 14:08:00,,,LLeno,Full,Medio +,Full,Full,LLeno,1496 rpm
+2026-11-24 14:10:00,,,LLeno,Full,,Full,Full,LLeno,1674 rpm
+2026-11-24 14:12:00,6.40,,LLeno,Full,Medio +,Full,Full,LLeno,1683 rpm
+2026-11-24 14:14:00,6.35,,Medio +,Full,Medio +,Full,Full,LLeno,1597 rpm
+2026-11-24 14:16:00,6.44,,Medio +,Full,,Full,Full,LLeno,1589 rpm
+2026-11-24 14:18:00,,,Medio +,Full,Medio +,Full,Full,LLeno,1620 rpm
+2026-11-24 14:20:00,,,Medio +,Full,Medio +,Full,Full,LLeno,1555 rpm
+2026-11-24 14:22:00,LLeno,,Medio +,Full,,Full,Full,LLeno,1589 rpm
+2026-11-24 14:24:00,,,Medio +,Full,Medio +,Full,Full,LLeno,1443 rpm
+2026-11-24 14:26:00,LLeno,,Medio +,Full,Medio +,Full,Full,LLeno,1302 rpm
+2026-11-24 14:28:00,LLeno,,Medio +,Full,Medio +,Full,Full,LLeno,1278 rpm
+2026-11-24 14:30:00,,,Medio +,Full,,Full,Full,LLeno,1292 rpm
+2026-11-24 14:32:00,LLeno,,Medio +,Full,Vacio,6.50,Full,LLeno,1695 rpm
+2026-11-24 14:34:00,,,Medio +,Full,Medio +,LLeno,Full,LLeno,1740 rpm
+2026-11-24 14:36:00,,,Medio +,Full,,6.50,Full,LLeno,1733 rpm
+2026-11-24 14:38:00,,,5.88,Full,Medio +,Full,Full,LLeno,1677 rpm
+2026-11-24 14:40:00,,,LLeno,Full,Medio +,6.50,Full,LLeno,1581 rpm
+2026-11-24 14:42:00,LLeno,,LLeno,Full,,6.50,Full,LLeno,1585 rpm
+2026-11-24 14:44:00,,,LLeno,Full,3.95,Full,Full,LLeno,1563 rpm
+2026-11-24 14:46:00,6.45,,LLeno,Full,1.46,LLeno,Full,LLeno,1552 rpm
+2026-11-24 14:48:00,LLeno,,LLeno,Full,Medio +,6.50,Full,LLeno,1743 rpm
+2026-11-24 14:50:00,,,LLeno,Full,Medio +,Full,Full,LLeno,1477 rpm
+2026-11-24 14:52:00,LLeno,,LLeno,Full,,LLeno,Full,LLeno,1800 rpm
+2026-11-24 14:54:00,LLeno,,LLeno,Full,Medio +,6.50,Full,LLeno,1471 rpm
+2026-11-24 14:56:00,LLeno,,LLeno,Full,Medio +,6.27,Full,LLeno,1524 rpm
+2026-11-24 14:58:00,LLeno,,Medio +,Full,Medio +,6.21,Full,LLeno,1596 rpm
+2026-11-24 15:00:00,LLeno,,Medio +,Full,,6.33,Full,LLeno,1759 rpm
+2026-11-24 15:02:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,LLeno,1749 rpm
+2026-11-24 15:04:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1641 rpm
+2026-11-24 15:06:00,LLeno,,Medio +,Full,,6.05,,LLeno,1590 rpm
+2026-11-24 15:08:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1390 rpm
+2026-11-24 15:10:00,,,Medio +,Full,Medio +,LLeno,,LLeno,1492 rpm
+2026-11-24 15:12:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1607 rpm
+2026-11-24 15:14:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1475 rpm
+2026-11-24 15:16:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1493 rpm
+2026-11-24 15:18:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1405 rpm
+2026-11-24 15:20:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1451 rpm
+2026-11-24 15:22:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1574 rpm
+2026-11-24 15:24:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1607 rpm
+2026-11-24 15:26:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1505 rpm
+2026-11-24 15:28:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1501 rpm
+2026-11-24 15:30:00,LLeno,,Medio +,Full,,6.14,,LLeno,1450 rpm
+2026-11-24 15:32:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1504 rpm
+2026-11-24 15:34:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1538 rpm
+2026-11-24 15:36:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1440 rpm
+2026-11-24 15:38:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1254 rpm
+2026-11-24 15:40:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1601 rpm
+2026-11-24 15:42:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1687 rpm
+2026-11-24 15:44:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1489 rpm
+2026-11-24 15:46:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1730 rpm
+2026-11-24 15:48:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1310 rpm
+2026-11-24 15:50:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1361 rpm
+2026-11-24 15:52:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1590 rpm
+2026-11-24 15:54:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1809 rpm
+2026-11-24 15:56:00,LLeno,,Medio +,Full,,LLeno,,LLeno,1833 rpm
+2026-11-24 15:58:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1827 rpm
+2026-11-24 16:00:00,LLeno,,Medio +,Full,Medio +,LLeno,,5.50,1792 rpm
+2026-11-24 16:02:00,LLeno,,Medio +,Full,,LLeno,,2.50,1748 rpm
+2026-11-24 16:04:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1757 rpm
+2026-11-24 16:06:00,LLeno,,Medio +,Full,Medio +,LLeno,,4.75,1705 rpm
+2026-11-24 16:08:00,4.70,,Medio +,Full,,LLeno,,LLeno,1374 rpm
+2026-11-24 16:10:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1177 rpm
+2026-11-24 16:12:00,LLeno,,Medio +,Full,Medio +,LLeno,,LLeno,1449 rpm
+2026-11-24 16:14:00,,,Medio +,Full,,LLeno,,LLeno,1668 rpm
+2026-11-24 16:16:00,,,Medio +,Full,Medio +,LLeno,,5.39,1778 rpm
+2026-11-24 16:18:00,,,Medio +,Full,Medio +,LLeno,,LLeno,1517 rpm
+2026-11-24 16:20:00,,,Medio +,Full,Medio +,LLeno,Full,LLeno,1236 rpm
+2026-11-24 16:22:00,,,Medio +,Full,,LLeno,Full,Medio -,1282 rpm
+2026-11-24 16:24:00,,,Medio +,,Medio +,LLeno,Full,Medio ,1714 rpm
+2026-11-24 16:26:00,,,Medio +,Full,Medio +,LLeno,,1.80,1721 rpm
+2026-11-24 16:28:00,,,Medio +,Full,,LLeno,,2.58,1815 rpm
+2026-11-24 16:30:00,,,Medio +,Full,Medio +,LLeno,Full,3.85,1698 rpm
+2026-11-24 16:32:00,,,Medio +,Full,Medio +,LLeno,Full,1.33,1685 rpm
+2026-11-24 16:34:00,,,Medio +,Full,Medio +,LLeno,Full,3.38,1618 rpm
+2026-11-24 16:36:00,,,Medio +,Full,,LLeno,Full,3.13,1788 rpm
+2026-11-24 16:38:00,,,Medio +,Full,,LLeno,Full,2.54,1782 rpm
+2026-11-24 16:40:00,,,Medio +,Full,Medio +,LLeno,Full,3.17,1829 rpm
+2026-11-24 16:42:00,,,Medio +,Full,,LLeno,,3.33,1674 rpm
+2026-11-24 16:44:00,,,Medio +,Full,Medio +,LLeno,,2.33,1807 rpm
+2026-11-24 16:46:00,,,Medio +,Full,Medio +,LLeno,,1.63,1788 rpm
+2026-11-24 16:48:00,,,Medio +,Full,,LLeno,Full,2.71,1833 rpm
+2026-11-24 16:50:00,,,Medio +,Full,Medio +,LLeno,Full,1.88,1610 rpm
+2026-11-24 16:52:00,,,Medio +,Full,Medio +,LLeno,Full,2.14,1562 rpm
+2026-11-24 16:54:00,,,Medio +,Full,,LLeno,Full,Medio +,1603 rpm
+2026-11-24 16:56:00,,,Medio +,Full,Medio +,LLeno,Full,3.13,1125 rpm
+2026-11-24 16:58:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,Muy Bajo,1220 rpm
+2026-11-24 17:00:00,LLeno,,Medio +,Full,,LLeno,Full,1.67,1277 rpm
+2026-11-24 17:02:00,,,Medio +,Full,Medio +,LLeno,Full,3.75,1723 rpm
+2026-11-24 17:04:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,2.50,1752 rpm
+2026-11-24 17:06:00,LLeno,,Medio +,Full,,LLeno,Full,Vacio,1639 rpm
+2026-11-24 17:08:00,LLeno,,Medio +,Full,Medio +,,Full,,1706 rpm
+2026-11-24 17:10:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,,1631 rpm
+2026-11-24 17:12:00,LLeno,,Medio +,Full,,LLeno,Full,Vacio,1032 rpm
+2026-11-24 17:14:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,Vacio,1296 rpm
+2026-11-24 17:16:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,Vacio,1500 rpm
+2026-11-24 17:18:00,LLeno,,Medio +,,,LLeno,Full,2.50,1174 rpm
+2026-11-24 17:20:00,LLeno,,Medio +,,Medio +,LLeno,Full,Vacio,1225 rpm
+2026-11-24 17:22:00,LLeno,,Medio +,Full,Medio +,LLeno,6.86,2.50,1284 rpm
+2026-11-24 17:24:00,LLeno,,5.67,Full,,LLeno,6.50,1.25,1243 rpm
+2026-11-24 17:26:00,LLeno,,Medio +,Full,Medio +,LLeno,6.50,2.92,1357 rpm
+2026-11-24 17:28:00,LLeno,,Medio +,Full,Medio +,LLeno,6.67,1.88,1248 rpm
+2026-11-24 17:30:00,LLeno,,Medio +,Full,,LLeno,Full,Bajo,1287 rpm
+2026-11-24 17:32:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,1.67,1185 rpm
+2026-11-24 17:34:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,0.417,1270 rpm
+2026-11-24 17:36:00,LLeno,,Medio +,Full,Medio +,LLeno,Full,Vacio,1094 rpm
+2026-11-24 17:38:00,LLeno,,Medio +,Full,,LLeno,6.50,Vacio,1102 rpm
+2026-11-24 17:40:00,LLeno,,Medio +,Full,Medio +,LLeno,6.83,Muy Bajo,1311 rpm
+2026-11-24 17:42:00,LLeno,,Medio +,Full,Medio +,LLeno,6.50,0.625,1607 rpm
+2026-11-24 17:44:00,LLeno,,Medio +,Full,,LLeno,6.67,1.29,1635 rpm
+2026-11-24 17:46:00,,,Medio +,Full,Medio +,LLeno,6.88,1.04,1643 rpm
+2026-11-24 17:48:00,,,Medio +,Full,Medio +,LLeno,6.50,2.27,1512 rpm
+2026-11-24 17:50:00,LLeno,,Medio +,Full,,LLeno,6.50,Vacio,1054 rpm
+2026-11-24 17:52:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1321 rpm
+2026-11-24 17:54:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1330 rpm
+2026-11-24 17:56:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1228 rpm
+2026-11-24 17:58:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1314 rpm
+2026-11-24 18:00:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1389 rpm
+2026-11-24 18:02:00,LLeno,,,Full,,LLeno,LLeno,Vacio,1537 rpm
+2026-11-24 18:04:00,LLeno,,,Full,Medio +,LLeno,LLeno,Vacio,1568 rpm
+2026-11-24 18:06:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1637 rpm
+2026-11-24 18:08:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1753 rpm
+2026-11-24 18:10:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1725 rpm
+2026-11-24 18:12:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1808 rpm
+2026-11-24 18:14:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1530 rpm
+2026-11-24 18:16:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1763 rpm
+2026-11-24 18:18:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1725 rpm
+2026-11-24 18:20:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1697 rpm
+2026-11-24 18:22:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1638 rpm
+2026-11-24 18:24:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1723 rpm
+2026-11-24 18:26:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1616 rpm
+2026-11-24 18:28:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1618 rpm
+2026-11-24 18:30:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1588 rpm
+2026-11-24 18:32:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1594 rpm
+2026-11-24 18:34:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1721 rpm
+2026-11-24 18:36:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1799 rpm
+2026-11-24 18:38:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1863 rpm
+2026-11-24 18:40:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1791 rpm
+2026-11-24 18:42:00,LLeno,,Medio +,Full,Medio +,,LLeno,Vacio,1749 rpm
+2026-11-24 18:44:00,LLeno,,Medio +,Full,Medio +,,6.33,Vacio,1797 rpm
+2026-11-24 18:46:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1745 rpm
+2026-11-24 18:48:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,1.25,1783 rpm
+2026-11-24 18:50:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1849 rpm
+2026-11-24 18:52:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,1.25,1824 rpm
+2026-11-24 18:54:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1744 rpm
+2026-11-24 18:56:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1763 rpm
+2026-11-24 18:58:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1814 rpm
+2026-11-24 19:00:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1879 rpm
+2026-11-24 19:02:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1814 rpm
+2026-11-24 19:04:00,LLeno,,Medio +,Full,Medio +,LLeno,6.50,2.50,1797 rpm
+2026-11-24 19:06:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1831 rpm
+2026-11-24 19:08:00,LLeno,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1835 rpm
+2026-11-24 19:10:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1787 rpm
+2026-11-24 19:12:00,LLeno,,Medio +,Full,,LLeno,LLeno,2.50,1806 rpm
+2026-11-24 19:14:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,2.50,1791 rpm
+2026-11-24 19:16:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1766 rpm
+2026-11-24 19:18:00,LLeno,,Medio +,Full,,LLeno,Full,1.11,1730 rpm
+2026-11-24 19:20:00,LLeno,,Medio +,Full,Medio ,LLeno,6.50,0.769,1779 rpm
+2026-11-24 19:22:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.208,1841 rpm
+2026-11-24 19:24:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.417,1826 rpm
+2026-11-24 19:26:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1800 rpm
+2026-11-24 19:28:00,,,Medio +,Full,,LLeno,6.33,0.263,1810 rpm
+2026-11-24 19:30:00,LLeno,,Medio +,Full,Medio ,LLeno,6.50,0.833,1735 rpm
+2026-11-24 19:32:00,,,,Full,,LLeno,LLeno,Vacio,1675 rpm
+2026-11-24 19:34:00,LLeno,,,Full,Medio ,LLeno,LLeno,Vacio,1695 rpm
+2026-11-24 19:36:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,1.25,1630 rpm
+2026-11-24 19:38:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1676 rpm
+2026-11-24 19:40:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1750 rpm
+2026-11-24 19:42:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1747 rpm
+2026-11-24 19:44:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1764 rpm
+2026-11-24 19:46:00,,,Medio +,Full,,LLeno,LLeno,0.208,1758 rpm
+2026-11-24 19:48:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.417,1804 rpm
+2026-11-24 19:50:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1841 rpm
+2026-11-24 19:52:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1784 rpm
+2026-11-24 19:54:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1813 rpm
+2026-11-24 19:56:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1819 rpm
+2026-11-24 19:58:00,,,Medio +,Full,,LLeno,LLeno,0.769,1813 rpm
+2026-11-24 20:00:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,2.50,1787 rpm
+2026-11-24 20:02:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1761 rpm
+2026-11-24 20:04:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1771 rpm
+2026-11-24 20:06:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1767 rpm
+2026-11-24 20:08:00,LLeno,,Medio +,Full,Medio ,LLeno,6.05,Vacio,1736 rpm
+2026-11-24 20:10:00,LLeno,,Medio +,Full,,LLeno,6.08,Vacio,1705 rpm
+2026-11-24 20:12:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1781 rpm
+2026-11-24 20:14:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1782 rpm
+2026-11-24 20:16:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1715 rpm
+2026-11-24 20:18:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1763 rpm
+2026-11-24 20:20:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1723 rpm
+2026-11-24 20:22:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1728 rpm
+2026-11-24 20:24:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1717 rpm
+2026-11-24 20:26:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1737 rpm
+2026-11-24 20:28:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1687 rpm
+2026-11-24 20:30:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1782 rpm
+2026-11-24 20:32:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1846 rpm
+2026-11-24 20:34:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1788 rpm
+2026-11-24 20:36:00,LLeno,,Medio +,Full,,LLeno,6.50,Vacio,1688 rpm
+2026-11-24 20:38:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1722 rpm
+2026-11-24 20:40:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1725 rpm
+2026-11-24 20:42:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1739 rpm
+2026-11-24 20:44:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1780 rpm
+2026-11-24 20:46:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1769 rpm
+2026-11-24 20:48:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1770 rpm
+2026-11-24 20:50:00,LLeno,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1774 rpm
+2026-11-24 20:52:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1777 rpm
+2026-11-24 20:54:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1794 rpm
+2026-11-24 20:56:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1720 rpm
+2026-11-24 20:58:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1774 rpm
+2026-11-24 21:00:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1810 rpm
+2026-11-24 21:02:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1766 rpm
+2026-11-24 21:04:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1781 rpm
+2026-11-24 21:06:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1714 rpm
+2026-11-24 21:08:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1720 rpm
+2026-11-24 21:10:00,,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1743 rpm
+2026-11-24 21:12:00,,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1718 rpm
+2026-11-24 21:14:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1773 rpm
+2026-11-24 21:16:00,,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1675 rpm
+2026-11-24 21:18:00,,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1456 rpm
+2026-11-24 21:20:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1340 rpm
+2026-11-24 21:22:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.417,1548 rpm
+2026-11-24 21:24:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.625,1754 rpm
+2026-11-24 21:26:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.208,1771 rpm
+2026-11-24 21:28:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.208,1706 rpm
+2026-11-24 21:30:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.208,1636 rpm
+2026-11-24 21:32:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.208,1668 rpm
+2026-11-24 21:34:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1636 rpm
+2026-11-24 21:36:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1751 rpm
+2026-11-24 21:38:00,LLeno,,Medio +,Full,Medio -,LLeno,6.33,0.652,1785 rpm
+2026-11-24 21:40:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.833,1725 rpm
+2026-11-24 21:42:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1535 rpm
+2026-11-24 21:44:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1585 rpm
+2026-11-24 21:46:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.417,1742 rpm
+2026-11-24 21:48:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.833,1730 rpm
+2026-11-24 21:50:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1714 rpm
+2026-11-24 21:52:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1723 rpm
+2026-11-24 21:54:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.455,1744 rpm
+2026-11-24 21:56:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.208,1518 rpm
+2026-11-24 21:58:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1631 rpm
+2026-11-24 22:00:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,0.625,1824 rpm
+2026-11-24 22:02:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1820 rpm
+2026-11-24 22:04:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1782 rpm
+2026-11-24 22:06:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1763 rpm
+2026-11-24 22:08:00,,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1800 rpm
+2026-11-24 22:10:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1793 rpm
+2026-11-24 22:12:00,,,Medio +,Full,,LLeno,LLeno,1.25,1767 rpm
+2026-11-24 22:14:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1824 rpm
+2026-11-24 22:16:00,LLeno,,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1809 rpm
+2026-11-24 22:18:00,,,Medio +,,Full,LLeno,LLeno,Vacio,1181 rpm
+2026-11-24 22:20:00,LLeno,,Medio +,,Full,LLeno,LLeno,Vacio,1162 rpm
+2026-11-24 22:22:00,LLeno,,Medio +,,,LLeno,LLeno,Vacio,1680 rpm
+2026-11-24 22:24:00,LLeno,,Medio +,,,LLeno,LLeno,Vacio,1520 rpm
+2026-11-24 22:26:00,LLeno,,Medio +,Full,,LLeno,LLeno,1.67,1705 rpm
+2026-11-24 22:28:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1812 rpm
+2026-11-24 22:30:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1535 rpm
+2026-11-24 22:32:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.714,1590 rpm
+2026-11-24 22:34:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1563 rpm
+2026-11-24 22:36:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1703 rpm
+2026-11-24 22:38:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1778 rpm
+2026-11-24 22:40:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1810 rpm
+2026-11-24 22:42:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1771 rpm
+2026-11-24 22:44:00,LLeno,,Medio +,Full,,LLeno,LLeno,0.250,1863 rpm
+2026-11-24 22:46:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1827 rpm
+2026-11-24 22:48:00,LLeno,,Medio +,Full,,LLeno,LLeno,1.67,1814 rpm
+2026-11-24 22:50:00,LLeno,,Medio +,Full,Full,LLeno,LLeno,Vacio,1710 rpm
+2026-11-24 22:52:00,,,Medio +,Full,Full,LLeno,LLeno,Vacio,1707 rpm
+2026-11-24 22:54:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1791 rpm
+2026-11-24 22:56:00,LLeno,,Medio +,Full,Full,LLeno,LLeno,Vacio,1478 rpm
+2026-11-24 22:58:00,,,Medio +,Full,Full,LLeno,LLeno,Vacio,1761 rpm
+2026-11-24 23:00:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1791 rpm
+2026-11-24 23:02:00,LLeno,,Medio +,Full,,LLeno,LLeno,Vacio,1734 rpm
+2026-11-24 23:04:00,LLeno,,Medio +,Full,Full,LLeno,LLeno,Vacio,1681 rpm
+2026-11-24 23:06:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1825 rpm
+2026-11-24 23:08:00,,,Medio +,Full,Full,LLeno,LLeno,Vacio,1834 rpm
+2026-11-24 23:10:00,LLeno,,Medio +,Full,Full,Medio +,LLeno,Vacio,1834 rpm
+2026-11-24 23:12:00,,,Medio +,Full,Full,Medio +,LLeno,Vacio,1822 rpm
+2026-11-24 23:14:00,LLeno,,Medio +,Full,,Medio +,LLeno,Vacio,1820 rpm
+2026-11-24 23:16:00,,,Medio +,Full,Full,Medio +,LLeno,Vacio,1763 rpm
+2026-11-24 23:18:00,,,Medio +,Full,,Medio +,LLeno,2.50,1697 rpm
+2026-11-24 23:20:00,LLeno,,Medio +,Full,Full,Medio +,LLeno,Vacio,1746 rpm
+2026-11-24 23:22:00,LLeno,,Medio +,Full,Full,Medio +,LLeno,Vacio,1700 rpm
+2026-11-24 23:24:00,LLeno,,Medio +,Full,LLeno,Medio +,LLeno,0.882,1844 rpm
+2026-11-24 23:26:00,LLeno,,Medio +,Full,,Medio +,LLeno,Vacio,1846 rpm
+2026-11-24 23:28:00,,,Medio +,Full,Full,Medio +,LLeno,1.11,1850 rpm
+2026-11-24 23:30:00,Medio +,,Medio +,Full,Full,Medio +,LLeno,Vacio,1820 rpm
+2026-11-24 23:32:00,LLeno,,Medio +,Full,,Medio +,LLeno,Vacio,1713 rpm
+2026-11-24 23:34:00,LLeno,,Medio +,Full,Full,Medio +,LLeno,Vacio,1766 rpm
+2026-11-24 23:36:00,,,Medio +,Full,Full,Medio +,LLeno,Vacio,1800 rpm
+2026-11-24 23:38:00,,,Medio +,Full,,Medio +,LLeno,Vacio,1814 rpm
+2026-11-24 23:40:00,4.57,,Medio +,Full,Full,Medio +,LLeno,Vacio,1830 rpm
+2026-11-24 23:42:00,2.35,,Medio +,Full,Full,Medio +,LLeno,0.250,1702 rpm
+2026-11-24 23:44:00,2.25,,Medio +,Full,,Medio +,LLeno,Vacio,1812 rpm
+2026-11-24 23:46:00,2.67,,Medio +,Full,Full,Medio +,LLeno,Vacio,1826 rpm
+2026-11-24 23:48:00,,,Medio +,Full,Full,Medio +,LLeno,Vacio,1820 rpm
+2026-11-24 23:50:00,LLeno,,Medio +,Full,,Medio +,LLeno,Vacio,1723 rpm
+2026-11-24 23:52:00,,,Medio +,Full,Full,Medio +,LLeno,0.417,1783 rpm
+2026-11-24 23:54:00,Medio -,,Medio +,Full,Full,Medio +,LLeno,Vacio,1820 rpm
+2026-11-24 23:56:00,4.40,,Medio +,Full,,Medio +,LLeno,Vacio,1808 rpm
+2026-11-24 23:58:00,1.85,,Medio +,Full,LLeno,,LLeno,0.769,1743 rpm
+2026-11-25 00:00:00,4.80,,Medio +,Full,LLeno,Medio +,LLeno,0.652,1783 rpm
+2026-11-25 00:02:00,1.43,,Medio +,Full,,Medio +,LLeno,1.04,1775 rpm
+2026-11-25 00:04:00,3.33,,Medio +,Full,LLeno,Medio +,LLeno,0.833,1823 rpm
+2026-11-25 00:06:00,Medio -,,Medio +,Full,Full,Medio +,LLeno,0.938,1821 rpm
+2026-11-25 00:08:00,,,Medio +,Full,,Medio +,LLeno,Vacio,1798 rpm
+2026-11-25 00:10:00,2.25,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1828 rpm
+2026-11-25 00:12:00,,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1840 rpm
+2026-11-25 00:14:00,2.67,,Medio +,Full,,Medio +,LLeno,0.208,1847 rpm
+2026-11-25 00:16:00,5.14,,Medio +,Full,LLeno,Medio +,LLeno,0.417,1844 rpm
+2026-11-25 00:18:00,,,Medio +,Full,LLeno,Medio +,LLeno,0.263,1848 rpm
+2026-11-25 00:20:00,Medio -,,Medio +,Full,,Medio +,LLeno,2.50,1843 rpm
+2026-11-25 00:22:00,,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1734 rpm
+2026-11-25 00:24:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1722 rpm
+2026-11-25 00:26:00,Vacio,,Medio +,Full,,Medio +,LLeno,Vacio,1770 rpm
+2026-11-25 00:28:00,,,Medio +,Full,LLeno,Medio +,LLeno,2.50,1796 rpm
+2026-11-25 00:30:00,,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1583 rpm
+2026-11-25 00:32:00,,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1413 rpm
+2026-11-25 00:34:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1583 rpm
+2026-11-25 00:36:00,Vacio,,Medio +,Full,,Medio +,LLeno,Vacio,1484 rpm
+2026-11-25 00:38:00,,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1555 rpm
+2026-11-25 00:40:00,0.286,,Medio +,Full,,Medio +,LLeno,0.208,1741 rpm
+2026-11-25 00:42:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,0.625,1742 rpm
+2026-11-25 00:44:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,0.263,1794 rpm
+2026-11-25 00:46:00,Vacio,,Medio +,Full,,Medio +,LLeno,Vacio,1462 rpm
+2026-11-25 00:48:00,,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1228 rpm
+2026-11-25 00:50:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1248 rpm
+2026-11-25 00:52:00,Vacio,,Medio +,Full,,Medio +,LLeno,Vacio,1462 rpm
+2026-11-25 00:54:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1489 rpm
+2026-11-25 00:56:00,,,Medio +,Full,LLeno,Medio +,6.09,Vacio,1425 rpm
+2026-11-25 00:58:00,,,Medio +,Full,,Medio +,Full,Vacio,1667 rpm
+2026-11-25 01:00:00,Vacio,,Medio +,Full,LLeno,Medio +,Full,Vacio,1560 rpm
+2026-11-25 01:02:00,Vacio,,Medio +,Full,LLeno,Medio +,Full,0.417,1651 rpm
+2026-11-25 01:04:00,Vacio,,Medio +,Full,,Medio +,Full,0.625,1638 rpm
+2026-11-25 01:06:00,Vacio,,Medio +,Full,LLeno,Medio +,Full,0.417,1662 rpm
+2026-11-25 01:08:00,Vacio,,Medio +,Full,LLeno,Medio +,Full,0.208,1674 rpm
+2026-11-25 01:10:00,Vacio,,Medio +,Full,,Medio +,Full,Vacio,1671 rpm
+2026-11-25 01:12:00,Vacio,,Medio +,Full,LLeno,Medio +,Full,0.667,1655 rpm
+2026-11-25 01:14:00,Vacio,,Medio +,Full,LLeno,Medio +,Full,0.417,1685 rpm
+2026-11-25 01:16:00,Vacio,,Medio +,Full,LLeno,Medio +,6.25,0.625,1672 rpm
+2026-11-25 01:18:00,Vacio,,Medio +,Full,,Medio +,Medio +,Vacio,1602 rpm
+2026-11-25 01:20:00,Vacio,,Medio +,Full,LLeno,Medio +,Medio +,Vacio,1523 rpm
+2026-11-25 01:22:00,Vacio,,Medio +,Full,LLeno,Medio +,Medio +,1.04,1618 rpm
+2026-11-25 01:24:00,Vacio,,Medio +,Full,,Medio +,Medio +,0.625,1497 rpm
+2026-11-25 01:26:00,,,Medio +,Full,LLeno,Medio +,Medio +,Vacio,1518 rpm
+2026-11-25 01:28:00,,,Medio +,Full,LLeno,Medio +,5.38,Vacio,1529 rpm
+2026-11-25 01:30:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1516 rpm
+2026-11-25 01:32:00,,,Medio +,Full,,Medio +,LLeno,Vacio,986 rpm
+2026-11-25 01:34:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1605 rpm
+2026-11-25 01:36:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,Vacio,1403 rpm
+2026-11-25 01:38:00,,,Medio +,Full,,Medio +,LLeno,Vacio,1240 rpm
+2026-11-25 01:40:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,2.46,1218 rpm
+2026-11-25 01:42:00,,,Medio +,Full,LLeno,Medio +,LLeno,4.90,1309 rpm
+2026-11-25 01:44:00,Vacio,,Medio +,Full,,Medio +,LLeno,3.04,1285 rpm
+2026-11-25 01:46:00,,,Medio +,Full,LLeno,Medio +,5.40,,1798 rpm
+2026-11-25 01:48:00,,,Medio +,Full,LLeno,Medio +,Medio +,,1815 rpm
+2026-11-25 01:50:00,Medio -,,Medio +,Full,,Medio +,Medio +,,1823 rpm
+2026-11-25 01:52:00,,,Medio +,Full,LLeno,Medio +,Medio +,,1832 rpm
+2026-11-25 01:54:00,Vacio,,Medio +,Full,LLeno,Medio +,Medio +,,1835 rpm
+2026-11-25 01:56:00,Vacio,,Medio +,Full,,Medio +,Medio +,,1819 rpm
+2026-11-25 01:58:00,,,Medio +,Full,LLeno,Medio +,Medio +,,1817 rpm
+2026-11-25 02:00:00,Vacio,,Medio +,Full,LLeno,Medio +,Medio +,,1702 rpm
+2026-11-25 02:02:00,,,Medio +,Full,,Medio +,5.76,,1423 rpm
+2026-11-25 02:04:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,,1451 rpm
+2026-11-25 02:06:00,Vacio,,Medio +,Full,LLeno,Medio +,LLeno,,1476 rpm
+2026-11-25 02:08:00,,,Medio ,Full,,Medio +,LLeno,,1437 rpm
+2026-11-25 02:10:00,Vacio,,Medio ,Full,LLeno,Medio +,LLeno,,1638 rpm
+2026-11-25 02:12:00,,,Medio ,Full,LLeno,,LLeno,,1582 rpm
+2026-11-25 02:14:00,Vacio,,Medio ,Full,LLeno,,LLeno,,1546 rpm
+2026-11-25 02:16:00,Vacio,,Medio ,Full,,Medio +,LLeno,,1546 rpm
+2026-11-25 02:18:00,,,Medio ,Full,LLeno,Medio +,LLeno,,1574 rpm
+2026-11-25 02:20:00,,,Medio ,Full,LLeno,Medio +,LLeno,,1600 rpm
+2026-11-25 02:22:00,,,Medio ,Full,,Medio +,5.38,,1816 rpm
+2026-11-25 02:24:00,Vacio,,Medio ,Full,LLeno,Medio +,Medio +,,1793 rpm
+2026-11-25 02:26:00,,,Medio ,Full,LLeno,Medio +,Medio +,,1697 rpm
+2026-11-25 02:28:00,,,Medio ,Full,,Medio +,Medio +,,1733 rpm
+2026-11-25 02:30:00,Vacio,,Medio ,Full,LLeno,Medio +,Medio +,,1823 rpm
+2026-11-25 02:32:00,,,Medio ,Full,LLeno,Medio +,Medio +,Full,1812 rpm
+2026-11-25 02:34:00,Vacio,,Medio ,Full,LLeno,Medio +,6.75,Full,1793 rpm
+2026-11-25 02:36:00,Vacio,,Medio ,Full,,Medio +,6.29,Full,1643 rpm
+2026-11-25 02:38:00,,,Medio ,Full,LLeno,Medio +,LLeno,Full,1616 rpm
+2026-11-25 02:40:00,3.57,,4.60,Full,LLeno,Medio +,LLeno,Full,1513 rpm
+2026-11-25 02:42:00,,,Medio ,Full,LLeno,Medio +,LLeno,Full,1001 rpm
+2026-11-25 02:44:00,Vacio,,,Full,LLeno,Medio +,LLeno,LLeno,1554 rpm
+2026-11-25 02:46:00,Vacio,,,Full,,Medio +,LLeno,Full,1605 rpm
+2026-11-25 02:48:00,,,,Full,LLeno,Medio +,LLeno,6.50,1780 rpm
+2026-11-25 02:50:00,Vacio,,,Full,LLeno,Medio +,LLeno,LLeno,1833 rpm
+2026-11-25 02:52:00,,,,Full,LLeno,Medio +,Medio +,6.50,1854 rpm
+2026-11-25 02:54:00,Vacio,,,Full,,Medio +,Medio +,6.50,1815 rpm
+2026-11-25 02:56:00,Vacio,,,Full,LLeno,Medio +,Medio +,LLeno,1757 rpm
+2026-11-25 02:58:00,,,,Full,LLeno,Medio +,Medio +,Full,1689 rpm
+2026-11-25 03:00:00,Vacio,,,Full,,Medio +,Medio +,Full,1559 rpm
+2026-11-25 03:02:00,,,,Full,LLeno,Medio +,Medio +,Full,1384 rpm
+2026-11-25 03:04:00,Vacio,,,Full,LLeno,Medio +,Medio +,Full,1501 rpm
+2026-11-25 03:06:00,Vacio,,,Full,,Medio +,Full,6.50,1415 rpm
+2026-11-25 03:08:00,,,,Full,LLeno,Medio +,Full,Full,1389 rpm
+2026-11-25 03:10:00,Vacio,,,Full,LLeno,Medio +,Full,6.50,1768 rpm
+2026-11-25 03:12:00,,,,Full,,Medio +,Full,6.50,1795 rpm
+2026-11-25 03:14:00,Vacio,,,,LLeno,Medio +,Full,Full,1690 rpm
+2026-11-25 03:16:00,Vacio,,,Full,LLeno,Medio +,Full,6.50,906 rpm
+2026-11-25 03:18:00,,,,Full,,Medio +,Full,Full,804 rpm
+2026-11-25 03:20:00,Vacio,,,,LLeno,Medio +,Full,6.50,1272 rpm
+2026-11-25 03:22:00,Vacio,,,,LLeno,Medio +,Full,6.50,1277 rpm
+2026-11-25 03:24:00,Vacio,,,,,Medio +,Full,LLeno,1458 rpm
+2026-11-25 03:26:00,Vacio,,,,LLeno,Medio +,Full,LLeno,1720 rpm
+2026-11-25 03:28:00,,,,,LLeno,Medio +,Full,LLeno,1654 rpm
+2026-11-25 03:30:00,Vacio,,,,,Medio +,Full,LLeno,1639 rpm
+2026-11-25 03:32:00,,,Full,,,Medio +,Full,LLeno,1486 rpm
+2026-11-25 03:34:00,Medio +,,Full,,LLeno,Medio +,Full,6.17,1251 rpm
+2026-11-25 03:36:00,,,Full,,LLeno,Medio +,Full,LLeno,1075 rpm
+2026-11-25 03:38:00,,,Full,,,Medio +,Full,LLeno,1782 rpm
+2026-11-25 03:40:00,Vacio,,Full,,LLeno,Medio +,Full,LLeno,1649 rpm
+2026-11-25 03:42:00,,,Full,,LLeno,Medio +,Full,LLeno,1827 rpm
+2026-11-25 03:44:00,,,,,,Medio +,Full,LLeno,1838 rpm
+2026-11-25 03:46:00,Vacio,,,,LLeno,Medio +,Full,LLeno,1828 rpm
+2026-11-25 03:48:00,,,,,LLeno,Medio +,Full,LLeno,1840 rpm
+2026-11-25 03:50:00,Vacio,,,,,Medio +,Full,LLeno,1624 rpm
+2026-11-25 03:52:00,Vacio,,,,LLeno,Medio +,Full,LLeno,1496 rpm
+2026-11-25 03:54:00,Vacio,,,,LLeno,Medio +,Full,LLeno,1558 rpm
+2026-11-25 03:56:00,,,,,,Medio +,Full,LLeno,1760 rpm
+2026-11-25 03:58:00,,,,,LLeno,Medio +,Full,LLeno,1713 rpm
+2026-11-25 04:00:00,Vacio,,,,LLeno,Medio +,Full,LLeno,1828 rpm
+2026-11-25 04:02:00,,,,Full,,Medio +,Full,LLeno,1502 rpm
+2026-11-25 04:04:00,,,,Full,LLeno,Medio +,Full,LLeno,981 rpm
+2026-11-25 04:06:00,Vacio,,,Full,LLeno,Medio +,Full,6.50,1759 rpm
+2026-11-25 04:08:00,Vacio,,Full,,,Medio +,Full,LLeno,1569 rpm
+2026-11-25 04:10:00,Vacio,,Full,,LLeno,Medio +,Full,,1729 rpm
+2026-11-25 04:12:00,Vacio,,Full,,LLeno,Medio +,Full,,1562 rpm
+2026-11-25 04:14:00,Vacio,,Full,Full,,Medio +,Full,LLeno,1640 rpm
+2026-11-25 04:16:00,Vacio,,6.75,Full,LLeno,Medio +,Full,LLeno,1682 rpm
+2026-11-25 04:18:00,,,6.71,Full,LLeno,Medio +,Full,LLeno,1700 rpm
+2026-11-25 04:20:00,Vacio,,Full,Full,,Medio +,Full,LLeno,1723 rpm
+2026-11-25 04:22:00,,,Full,Full,LLeno,Medio +,Full,LLeno,1723 rpm
+2026-11-25 04:24:00,Vacio,,6.74,Full,LLeno,Medio +,Full,LLeno,1787 rpm
+2026-11-25 04:26:00,Vacio,,6.56,Full,,Medio +,Full,6.08,1826 rpm
+2026-11-25 04:28:00,,,6.21,Full,LLeno,Medio +,Full,6.21,1777 rpm
+2026-11-25 04:30:00,Vacio,,6.55,Full,LLeno,Medio +,Full,LLeno,1779 rpm
+2026-11-25 04:32:00,,,LLeno,Full,,Medio +,Full,6.50,1735 rpm
+2026-11-25 04:34:00,,,6.33,Full,LLeno,Medio +,Full,LLeno,1626 rpm
+2026-11-25 04:36:00,Vacio,,6.50,Full,LLeno,Medio +,Full,LLeno,1589 rpm
+2026-11-25 04:38:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1668 rpm
+2026-11-25 04:40:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1676 rpm
+2026-11-25 04:42:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1809 rpm
+2026-11-25 04:44:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1849 rpm
+2026-11-25 04:46:00,Vacio,,LLeno,Full,,Medio +,6.33,LLeno,1865 rpm
+2026-11-25 04:48:00,Vacio,,6.50,Full,LLeno,Medio +,Medio +,LLeno,1824 rpm
+2026-11-25 04:50:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1808 rpm
+2026-11-25 04:52:00,,,LLeno,Full,,Medio +,5.24,LLeno,1821 rpm
+2026-11-25 04:54:00,Vacio,,6.04,Full,LLeno,Medio +,Medio +,LLeno,1812 rpm
+2026-11-25 04:56:00,,,6.10,Full,LLeno,Medio +,Medio +,LLeno,1726 rpm
+2026-11-25 04:58:00,,,LLeno,Full,,Medio +,Medio +,LLeno,1298 rpm
+2026-11-25 05:00:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1478 rpm
+2026-11-25 05:02:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1374 rpm
+2026-11-25 05:04:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1227 rpm
+2026-11-25 05:06:00,Vacio,,LLeno,Full,LLeno,Medio +,5.09,LLeno,1562 rpm
+2026-11-25 05:08:00,,,LLeno,Full,LLeno,Medio +,5.75,LLeno,1620 rpm
+2026-11-25 05:10:00,Vacio,,LLeno,Full,,Medio +,5.67,LLeno,1634 rpm
+2026-11-25 05:12:00,,,LLeno,Full,LLeno,Medio +,LLeno,LLeno,1712 rpm
+2026-11-25 05:14:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1551 rpm
+2026-11-25 05:16:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1785 rpm
+2026-11-25 05:18:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1835 rpm
+2026-11-25 05:20:00,2.50,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1652 rpm
+2026-11-25 05:22:00,,,LLeno,Full,,Medio +,Medio +,LLeno,1778 rpm
+2026-11-25 05:24:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1431 rpm
+2026-11-25 05:26:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1400 rpm
+2026-11-25 05:28:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1427 rpm
+2026-11-25 05:30:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,,1153 rpm
+2026-11-25 05:32:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,,1081 rpm
+2026-11-25 05:34:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1131 rpm
+2026-11-25 05:36:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1003 rpm
+2026-11-25 05:38:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1074 rpm
+2026-11-25 05:40:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,992 rpm
+2026-11-25 05:42:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1060 rpm
+2026-11-25 05:44:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,,1089 rpm
+2026-11-25 05:46:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,,1108 rpm
+2026-11-25 05:48:00,,,LLeno,Full,,Medio +,Medio +,LLeno,1319 rpm
+2026-11-25 05:50:00,Vacio,,6.24,Full,LLeno,Medio +,Medio +,LLeno,1581 rpm
+2026-11-25 05:52:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1544 rpm
+2026-11-25 05:54:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1513 rpm
+2026-11-25 05:56:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1419 rpm
+2026-11-25 05:58:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1491 rpm
+2026-11-25 06:00:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1144 rpm
+2026-11-25 06:02:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1556 rpm
+2026-11-25 06:04:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1448 rpm
+2026-11-25 06:06:00,Vacio,,LLeno,Full,,Medio +,6.78,LLeno,1398 rpm
+2026-11-25 06:08:00,,,LLeno,Full,LLeno,Medio +,5.75,LLeno,1267 rpm
+2026-11-25 06:10:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1115 rpm
+2026-11-25 06:12:00,,,LLeno,Full,,Medio +,Full,LLeno,1565 rpm
+2026-11-25 06:14:00,,,LLeno,Full,LLeno,Medio +,Full,LLeno,1692 rpm
+2026-11-25 06:16:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1713 rpm
+2026-11-25 06:18:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1796 rpm
+2026-11-25 06:20:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1787 rpm
+2026-11-25 06:22:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1797 rpm
+2026-11-25 06:24:00,Vacio,,LLeno,Full,,Medio +,LLeno,LLeno,1797 rpm
+2026-11-25 06:26:00,Vacio,,LLeno,Full,LLeno,Medio +,5.67,LLeno,1735 rpm
+2026-11-25 06:28:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1709 rpm
+2026-11-25 06:30:00,Vacio,,LLeno,Full,,Medio +,6.80,LLeno,1765 rpm
+2026-11-25 06:32:00,Vacio,,LLeno,Full,LLeno,Medio +,6.67,LLeno,1796 rpm
+2026-11-25 06:34:00,Vacio,,LLeno,Full,LLeno,Medio +,5.67,LLeno,1825 rpm
+2026-11-25 06:36:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1777 rpm
+2026-11-25 06:38:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1715 rpm
+2026-11-25 06:40:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1749 rpm
+2026-11-25 06:42:00,,,LLeno,Full,,Medio +,Medio +,LLeno,1715 rpm
+2026-11-25 06:44:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1803 rpm
+2026-11-25 06:46:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1809 rpm
+2026-11-25 06:48:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1792 rpm
+2026-11-25 06:50:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1660 rpm
+2026-11-25 06:52:00,Vacio,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1664 rpm
+2026-11-25 06:54:00,,,LLeno,Full,LLeno,Medio +,Medio +,LLeno,1742 rpm
+2026-11-25 06:56:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1751 rpm
+2026-11-25 06:58:00,,,LLeno,Full,LLeno,Medio +,6.33,LLeno,1723 rpm
+2026-11-25 07:00:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1764 rpm
+2026-11-25 07:02:00,,,LLeno,Full,,Medio +,Full,LLeno,1680 rpm
+2026-11-25 07:04:00,,,LLeno,Full,LLeno,Medio +,Full,LLeno,1565 rpm
+2026-11-25 07:06:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1681 rpm
+2026-11-25 07:08:00,,,LLeno,Full,,Medio +,Full,LLeno,1715 rpm
+2026-11-25 07:10:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1802 rpm
+2026-11-25 07:12:00,,,LLeno,Full,LLeno,Medio +,Full,LLeno,1817 rpm
+2026-11-25 07:14:00,,,LLeno,Full,,Medio +,Full,LLeno,1829 rpm
+2026-11-25 07:16:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1804 rpm
+2026-11-25 07:18:00,,,LLeno,Full,LLeno,,Full,LLeno,1815 rpm
+2026-11-25 07:20:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1808 rpm
+2026-11-25 07:22:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1825 rpm
+2026-11-25 07:24:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1819 rpm
+2026-11-25 07:26:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1508 rpm
+2026-11-25 07:28:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1229 rpm
+2026-11-25 07:30:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1288 rpm
+2026-11-25 07:32:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1588 rpm
+2026-11-25 07:34:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1737 rpm
+2026-11-25 07:36:00,Vacio,,LLeno,Full,LLeno,Medio +,Full,LLeno,1328 rpm
+2026-11-25 07:38:00,,,LLeno,Full,,Medio +,Full,LLeno,1670 rpm
+2026-11-25 07:40:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1835 rpm
+2026-11-25 07:42:00,,,LLeno,,LLeno,Medio +,Full,LLeno,1812 rpm
+2026-11-25 07:44:00,,,LLeno,,,Medio +,Full,LLeno,1773 rpm
+2026-11-25 07:46:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1799 rpm
+2026-11-25 07:48:00,,,LLeno,,LLeno,Medio +,Full,LLeno,1805 rpm
+2026-11-25 07:50:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1791 rpm
+2026-11-25 07:52:00,,,LLeno,,,Medio +,Full,LLeno,1800 rpm
+2026-11-25 07:54:00,,,LLeno,,LLeno,Medio +,Full,LLeno,1799 rpm
+2026-11-25 07:56:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1819 rpm
+2026-11-25 07:58:00,,,LLeno,,,Medio +,Full,LLeno,1809 rpm
+2026-11-25 08:00:00,Vacio,,LLeno,,LLeno,Medio +,Full,LLeno,1809 rpm
+2026-11-25 08:02:00,,,LLeno,,Medio +,Medio +,Full,LLeno,1829 rpm
+2026-11-25 08:04:00,Vacio,,LLeno,,,Medio +,Full,LLeno,1824 rpm
+2026-11-25 08:06:00,,,LLeno,,Medio +,Medio +,Full,LLeno,1818 rpm
+2026-11-25 08:08:00,,,LLeno,,Medio +,Medio +,Full,LLeno,1832 rpm
+2026-11-25 08:10:00,Vacio,,LLeno,,,Medio +,Full,LLeno,1835 rpm
+2026-11-25 08:12:00,,,LLeno,,Medio +,Medio +,Full,LLeno,1830 rpm
+2026-11-25 08:14:00,,,LLeno,,Medio +,Medio +,6.07,LLeno,1809 rpm
+2026-11-25 08:16:00,Vacio,,LLeno,,,Medio +,Full,LLeno,1769 rpm
+2026-11-25 08:18:00,,,LLeno,,Medio +,Medio +,6.33,LLeno,1828 rpm
+2026-11-25 08:20:00,,,LLeno,,Medio +,Medio +,6.75,LLeno,1839 rpm
+2026-11-25 08:22:00,,,LLeno,,,Medio +,5.58,LLeno,1840 rpm
+2026-11-25 08:24:00,,,LLeno,,Medio +,Medio +,5.80,LLeno,1781 rpm
+2026-11-25 08:26:00,Vacio,,LLeno,,Medio +,Medio +,Full,LLeno,1805 rpm
+2026-11-25 08:28:00,Vacio,,LLeno,Full,,Medio +,LLeno,LLeno,1815 rpm
+2026-11-25 08:30:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio +,LLeno,1790 rpm
+2026-11-25 08:32:00,,,LLeno,Full,Vacio,Medio +,LLeno,LLeno,1747 rpm
+2026-11-25 08:34:00,Vacio,,LLeno,Full,,Medio +,5.67,LLeno,1789 rpm
+2026-11-25 08:36:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio +,LLeno,1769 rpm
+2026-11-25 08:38:00,,,LLeno,6.45,Medio +,Medio +,Full,LLeno,1768 rpm
+2026-11-25 08:40:00,Vacio,,LLeno,Full,,Medio +,Medio +,LLeno,1767 rpm
+2026-11-25 08:42:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio +,LLeno,1777 rpm
+2026-11-25 08:44:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio +,LLeno,1790 rpm
+2026-11-25 08:46:00,,,LLeno,Full,,Medio +,Medio +,LLeno,1764 rpm
+2026-11-25 08:48:00,,,LLeno,Full,Medio +,Medio +,Medio +,LLeno,1677 rpm
+2026-11-25 08:50:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio +,LLeno,1761 rpm
+2026-11-25 08:52:00,Vacio,,LLeno,Full,Vacio,Medio +,Medio +,LLeno,1828 rpm
+2026-11-25 08:54:00,,,LLeno,Full,,Medio +,Medio +,LLeno,1807 rpm
+2026-11-25 08:56:00,Vacio,,LLeno,Full,Medio +,Medio +,Medio +,LLeno,1810 rpm
+2026-11-25 08:58:00,,,LLeno,Full,Medio +,Medio +,5.67,LLeno,1854 rpm
+2026-11-25 09:00:00,,,LLeno,LLeno,,Medio +,Medio +,LLeno,1208 rpm
+2026-11-25 09:02:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1184 rpm
+2026-11-25 09:04:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1716 rpm
+2026-11-25 09:06:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1725 rpm
+2026-11-25 09:08:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1783 rpm
+2026-11-25 09:10:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1820 rpm
+2026-11-25 09:12:00,,,LLeno,Full,,Medio +,Full,LLeno,1822 rpm
+2026-11-25 09:14:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1810 rpm
+2026-11-25 09:16:00,,,LLeno,Full,Vacio,Medio +,Full,LLeno,1746 rpm
+2026-11-25 09:18:00,,,LLeno,Full,,Medio +,Full,LLeno,1810 rpm
+2026-11-25 09:20:00,Vacio,,LLeno,6.33,Vacio,Medio +,Full,LLeno,1786 rpm
+2026-11-25 09:22:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1818 rpm
+2026-11-25 09:24:00,,,LLeno,Full,,Medio +,Full,LLeno,1730 rpm
+2026-11-25 09:26:00,2.50,,LLeno,Full,Vacio,Medio +,Full,LLeno,1726 rpm
+2026-11-25 09:28:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1808 rpm
+2026-11-25 09:30:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1809 rpm
+2026-11-25 09:32:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1814 rpm
+2026-11-25 09:34:00,,,LLeno,LLeno,Medio +,Medio +,Full,LLeno,1765 rpm
+2026-11-25 09:36:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1734 rpm
+2026-11-25 09:38:00,Vacio,,LLeno,Full,Medio +,,Full,LLeno,1760 rpm
+2026-11-25 09:40:00,Vacio,,LLeno,Full,,,Full,LLeno,1718 rpm
+2026-11-25 09:42:00,3.33,,LLeno,Full,Medio +,Medio +,Full,LLeno,1638 rpm
+2026-11-25 09:44:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1682 rpm
+2026-11-25 09:46:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1462 rpm
+2026-11-25 09:48:00,,,LLeno,Full,,Medio +,Full,LLeno,1388 rpm
+2026-11-25 09:50:00,Vacio,,LLeno,Full,Vacio,Medio +,Full,LLeno,1768 rpm
+2026-11-25 09:52:00,,,LLeno,6.33,Vacio,Medio +,Full,LLeno,1799 rpm
+2026-11-25 09:54:00,,,LLeno,Full,,Medio +,Full,LLeno,1830 rpm
+2026-11-25 09:56:00,Vacio,,LLeno,6.92,Medio +,Medio +,Full,LLeno,1816 rpm
+2026-11-25 09:58:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1811 rpm
+2026-11-25 10:00:00,Medio +,,LLeno,Full,,Medio +,Full,LLeno,1825 rpm
+2026-11-25 10:02:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1812 rpm
+2026-11-25 10:04:00,,,LLeno,6.33,Medio +,Medio +,Full,LLeno,1773 rpm
+2026-11-25 10:06:00,1.67,,LLeno,Full,,Medio +,Full,LLeno,1796 rpm
+2026-11-25 10:08:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1746 rpm
+2026-11-25 10:10:00,2.50,,LLeno,Full,Medio +,Medio +,Full,LLeno,1684 rpm
+2026-11-25 10:12:00,,,LLeno,Full,,Medio +,Full,LLeno,1674 rpm
+2026-11-25 10:14:00,,,LLeno,Full,Medio +,Medio +,Full,LLeno,1620 rpm
+2026-11-25 10:16:00,Medio +,,LLeno,Full,Medio +,Medio +,Full,LLeno,1809 rpm
+2026-11-25 10:18:00,,,LLeno,LLeno,,Medio +,Full,LLeno,1817 rpm
+2026-11-25 10:20:00,Medio +,,LLeno,LLeno,Medio +,Medio +,Full,LLeno,1769 rpm
+2026-11-25 10:22:00,,,LLeno,Full,Vacio,Medio +,Full,LLeno,1827 rpm
+2026-11-25 10:24:00,,,LLeno,Full,,Medio +,Full,LLeno,1822 rpm
+2026-11-25 10:26:00,2.50,,LLeno,Full,Medio +,Medio +,Full,LLeno,1767 rpm
+2026-11-25 10:28:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1702 rpm
+2026-11-25 10:30:00,Vacio,,LLeno,Full,,Medio +,Full,LLeno,1773 rpm
+2026-11-25 10:32:00,Vacio,,LLeno,Full,Medio +,Medio +,Full,LLeno,1617 rpm
+2026-11-25 10:34:00,,,LLeno,Full,Medio +,4.14,Full,LLeno,1338 rpm
+2026-11-25 10:36:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1823 rpm
+2026-11-25 10:38:00,,,LLeno,Full,,Medio ,Full,LLeno,1812 rpm
+2026-11-25 10:40:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1808 rpm
+2026-11-25 10:42:00,,,LLeno,Full,Vacio,Medio ,Full,LLeno,1764 rpm
+2026-11-25 10:44:00,,,LLeno,Full,,Medio ,Full,LLeno,1460 rpm
+2026-11-25 10:46:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1708 rpm
+2026-11-25 10:48:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1788 rpm
+2026-11-25 10:50:00,Medio +,,LLeno,Full,,Medio ,Full,LLeno,1809 rpm
+2026-11-25 10:52:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1830 rpm
+2026-11-25 10:54:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1718 rpm
+2026-11-25 10:56:00,Medio +,,LLeno,Full,,Medio ,Full,LLeno,1644 rpm
+2026-11-25 10:58:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1648 rpm
+2026-11-25 11:00:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1672 rpm
+2026-11-25 11:02:00,Medio +,,LLeno,Full,,Medio ,Full,LLeno,1793 rpm
+2026-11-25 11:04:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1742 rpm
+2026-11-25 11:06:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1757 rpm
+2026-11-25 11:08:00,,,LLeno,Full,,Medio ,Full,LLeno,1748 rpm
+2026-11-25 11:10:00,Medio +,,LLeno,Full,Medio +,Medio ,Full,LLeno,1267 rpm
+2026-11-25 11:12:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1391 rpm
+2026-11-25 11:14:00,,,LLeno,Full,,Medio ,Full,LLeno,1538 rpm
+2026-11-25 11:16:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1539 rpm
+2026-11-25 11:18:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1581 rpm
+2026-11-25 11:20:00,Medio +,,LLeno,Full,,Medio ,Full,LLeno,1581 rpm
+2026-11-25 11:22:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1615 rpm
+2026-11-25 11:24:00,,,LLeno,Full,Medio +,Medio ,5.80,LLeno,1594 rpm
+2026-11-25 11:26:00,Medio +,,LLeno,Full,,Medio ,Full,LLeno,1677 rpm
+2026-11-25 11:28:00,,,LLeno,Full,Medio +,Medio ,Full,LLeno,1722 rpm
+2026-11-25 11:30:00,Medio +,,LLeno,Full,Medio +,Medio ,,LLeno,1813 rpm
+2026-11-25 11:32:00,,,LLeno,Full,,Medio ,,LLeno,1829 rpm
+2026-11-25 11:34:00,,,LLeno,Full,Medio +,Medio ,,LLeno,1818 rpm
+2026-11-25 11:36:00,Medio +,,LLeno,Full,Medio +,Medio ,,LLeno,1827 rpm
+2026-11-25 11:38:00,,,LLeno,Full,Medio +,Medio ,,LLeno,1677 rpm
+2026-11-25 11:40:00,Medio +,,LLeno,Full,,Medio ,,LLeno,1622 rpm
+2026-11-25 11:42:00,Medio +,,LLeno,Full,Medio +,Medio ,,LLeno,1734 rpm
+2026-11-25 11:44:00,Medio +,,LLeno,Full,Medio +,Medio ,,LLeno,1817 rpm
+2026-11-25 11:46:00,,,LLeno,Full,,Medio ,,LLeno,1811 rpm
+2026-11-25 11:48:00,,,LLeno,Full,Medio +,Medio ,,LLeno,1836 rpm
+2026-11-25 11:50:00,,,LLeno,Full,Medio +,Medio ,,LLeno,1805 rpm
+2026-11-25 11:52:00,,,LLeno,Full,,Medio ,,LLeno,1826 rpm
+2026-11-25 11:54:00,,,LLeno,Full,Vacio,Medio ,,LLeno,1775 rpm
+2026-11-25 11:56:00,Medio +,,LLeno,Full,Medio +,Medio ,,4.50,1778 rpm
+2026-11-25 11:58:00,1.55,,LLeno,Full,Medio +,Medio ,,Bajo,1479 rpm
+2026-11-25 12:00:00,LLeno,,5.17,Full,Medio +,Medio ,,LLeno,1513 rpm
+2026-11-25 12:02:00,LLeno,,Medio +,Full,,Medio ,,4.86,1778 rpm
+2026-11-25 12:04:00,,,Medio +,Full,Medio +,Medio ,,Medio ,1826 rpm
+2026-11-25 12:06:00,,,Medio +,,Medio +,3.50,,Medio -,1830 rpm
+2026-11-25 12:08:00,,,Medio +,Full,Medio +,Medio -,,LLeno,1796 rpm
+2026-11-25 12:10:00,,,Medio +,Full,,Medio -,,Medio +,1828 rpm
+2026-11-25 12:12:00,,,Medio +,Full,Medio +,Medio -,,Medio -,1818 rpm
+2026-11-25 12:14:00,,,Medio +,Full,Medio +,Medio -,,,1830 rpm
+2026-11-25 12:16:00,,,Medio +,Full,,Medio -,,,1608 rpm
+2026-11-25 12:18:00,,,Medio +,Full,Medio +,Medio -,LLeno,5.50,1744 rpm
+2026-11-25 12:20:00,,,Medio +,Full,Medio +,Medio -,LLeno,3.92,1821 rpm
+2026-11-25 12:22:00,,,Medio +,Full,,Medio -,LLeno,2.47,1736 rpm
+2026-11-25 12:24:00,,,Medio +,Full,Medio +,Medio -,LLeno,4.52,1582 rpm
+2026-11-25 12:26:00,,,Medio +,Full,Medio +,Medio -,LLeno,LLeno,1812 rpm
+2026-11-25 12:28:00,,,1.43,Full,,Medio -,LLeno,,1533 rpm
+2026-11-25 12:30:00,,,Medio +,Full,Medio +,Medio -,LLeno,,1195 rpm
+2026-11-25 12:32:00,,,4.58,Full,Medio +,Medio -,LLeno,,1291 rpm
+2026-11-25 12:34:00,,,Bajo,Full,,Medio -,LLeno,,1527 rpm
+2026-11-25 12:36:00,,,5.26,Full,Medio +,Medio -,LLeno,,1790 rpm
+2026-11-25 12:38:00,,,LLeno,Full,Vacio,Medio -,LLeno,,1531 rpm
+2026-11-25 12:40:00,,,,Full,2.08,Medio -,LLeno,,1676 rpm
+2026-11-25 12:42:00,,,,Full,Medio +,Medio -,LLeno,,1808 rpm
+2026-11-25 12:44:00,,,,Full,,Medio -,LLeno,,1686 rpm
+2026-11-25 12:46:00,,,,Full,,Medio -,LLeno,,1720 rpm
+2026-11-25 12:48:00,,,,Full,,Medio -,LLeno,,1629 rpm
+2026-11-25 12:50:00,,,,Full,,Medio -,LLeno,,1817 rpm
+2026-11-25 12:52:00,,,,Full,,Medio -,LLeno,,1541 rpm
+2026-11-25 12:54:00,,,,Full,,Medio -,LLeno,,1513 rpm
+2026-11-25 12:56:00,,,,Full,,Medio -,LLeno,,1826 rpm
+2026-11-25 12:58:00,,,,Full,,Medio -,LLeno,,1621 rpm
+2026-11-25 13:00:00,,,,Full,,2.57,LLeno,,858 rpm
+2026-11-25 13:02:00,,,,Full,,3.68,LLeno,,655 rpm
+2026-11-25 13:04:00,,,,Full,,LLeno,LLeno,,451 rpm
+2026-11-25 13:06:00,,,,Full,,LLeno,LLeno,,1369 rpm
+2026-11-25 13:08:00,,,,Full,,,LLeno,,1863 rpm
+2026-11-25 13:10:00,,,,Full,,,LLeno,,1825 rpm
+2026-11-25 13:12:00,,,,Full,Medio +,,LLeno,,1830 rpm
+2026-11-25 13:14:00,,,,Full,,,LLeno,,1825 rpm
+2026-11-25 13:16:00,,,,Full,Medio +,,LLeno,,1824 rpm
+2026-11-25 13:18:00,,,,Full,Vacio,,LLeno,,1766 rpm
+2026-11-25 13:20:00,,,,Full,,LLeno,LLeno,,1748 rpm
+2026-11-25 13:22:00,,,,Full,Vacio,Full,LLeno,,1117 rpm
+2026-11-25 13:24:00,,,,Full,Medio +,Full,Full,,1278 rpm
+2026-11-25 13:26:00,,,,Full,,Full,Full,,1391 rpm
+2026-11-25 13:28:00,,,,Full,Medio +,Full,Full,,1489 rpm
+2026-11-25 13:30:00,,,,Full,Medio +,Full,Full,,1722 rpm
+2026-11-25 13:32:00,,,,Full,,,LLeno,5.50,1826 rpm
+2026-11-25 13:34:00,,,Medio +,Full,Medio +,,LLeno,Vacio,1842 rpm
+2026-11-25 13:36:00,,,Medio +,Full,Medio +,,LLeno,2.50,1829 rpm
+2026-11-25 13:38:00,,,Medio +,Full,,,LLeno,Medio +,1851 rpm
+2026-11-25 13:40:00,,,Medio +,Full,Medio +,,LLeno,Medio -,1813 rpm
+2026-11-25 13:42:00,,,Medio +,Full,Medio +,,LLeno,5.50,1831 rpm
+2026-11-25 13:44:00,,,Medio +,Full,,,LLeno,Vacio,1835 rpm
+2026-11-25 13:46:00,,,Medio +,Full,Medio +,,LLeno,2.50,1832 rpm
+2026-11-25 13:48:00,,,Medio +,Full,Medio +,,LLeno,Medio +,1849 rpm
+2026-11-25 13:50:00,,,Medio +,Full,,,LLeno,Vacio,1843 rpm
+2026-11-25 13:52:00,,,Medio +,Full,Medio +,,LLeno,Vacio,1836 rpm
+2026-11-25 13:54:00,,,Medio +,Full,Medio +,,LLeno,Vacio,1762 rpm
+2026-11-25 13:56:00,,,Medio +,Full,Medio +,,LLeno,Vacio,1769 rpm
+2026-11-25 13:58:00,,,Medio +,Full,,,LLeno,Medio +,1785 rpm
+2026-11-25 14:00:00,,,Medio +,Full,Medio +,,LLeno,1.67,1831 rpm
+2026-11-25 14:02:00,,,Medio +,Full,Medio +,,LLeno,Vacio,1764 rpm
+2026-11-25 14:04:00,,,Medio +,Full,,,LLeno,2.50,1809 rpm
+2026-11-25 14:06:00,,,Medio +,Full,Medio +,,LLeno,Vacio,1833 rpm
+2026-11-25 14:08:00,,,Medio +,Full,Medio +,,LLeno,Medio +,1855 rpm
+2026-11-25 14:10:00,,,Medio +,Full,,,LLeno,Vacio,1759 rpm
+2026-11-25 14:12:00,,,Medio +,Full,Medio +,Full,LLeno,Medio +,1836 rpm
+2026-11-25 14:14:00,,,Medio +,Full,Medio +,Full,LLeno,2.50,1841 rpm
+2026-11-25 14:16:00,,,Medio +,Full,,Full,LLeno,2.50,1835 rpm
+2026-11-25 14:18:00,,,Medio +,Full,Medio +,Full,LLeno,Medio +,1819 rpm
+2026-11-25 14:20:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1827 rpm
+2026-11-25 14:22:00,,,Medio +,Full,,Full,LLeno,2.50,1845 rpm
+2026-11-25 14:24:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1704 rpm
+2026-11-25 14:26:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1599 rpm
+2026-11-25 14:28:00,,,Medio +,Full,,Full,LLeno,2.50,1476 rpm
+2026-11-25 14:30:00,,,Medio +,Full,Medio +,Full,LLeno,2.50,1552 rpm
+2026-11-25 14:32:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1584 rpm
+2026-11-25 14:34:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1451 rpm
+2026-11-25 14:36:00,,,Medio +,Full,,Full,LLeno,2.50,1415 rpm
+2026-11-25 14:38:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1679 rpm
+2026-11-25 14:40:00,,,Medio +,Full,Vacio,Full,LLeno,Vacio,1539 rpm
+2026-11-25 14:42:00,,,Medio +,Full,,Full,LLeno,Vacio,1360 rpm
+2026-11-25 14:44:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1440 rpm
+2026-11-25 14:46:00,,,Medio +,Full,Medio +,Full,LLeno,2.50,1574 rpm
+2026-11-25 14:48:00,,,Medio +,Full,,Full,LLeno,2.50,1529 rpm
+2026-11-25 14:50:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1395 rpm
+2026-11-25 14:52:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1433 rpm
+2026-11-25 14:54:00,,,Medio +,Full,,Full,LLeno,Vacio,1435 rpm
+2026-11-25 14:56:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1630 rpm
+2026-11-25 14:58:00,,,Medio +,Full,Medio +,Full,LLeno,,1666 rpm
+2026-11-25 15:00:00,,,Medio +,Full,,Full,LLeno,,1578 rpm
+2026-11-25 15:02:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1632 rpm
+2026-11-25 15:04:00,,,Medio +,Full,Medio +,Full,LLeno,Medio +,1729 rpm
+2026-11-25 15:06:00,,,Medio +,Full,,Full,LLeno,1.67,1413 rpm
+2026-11-25 15:08:00,,,Medio +,Full,Medio +,Full,LLeno,Vacio,1477 rpm
+2026-11-25 15:10:00,,,Medio +,Full,Medio +,6.50,LLeno,Vacio,1678 rpm
+2026-11-25 15:12:00,,,Medio +,Full,Medio +,6.50,LLeno,Vacio,1637 rpm
+2026-11-25 15:14:00,,,Medio +,Full,,6.43,LLeno,Vacio,1741 rpm
+2026-11-25 15:16:00,,,Medio +,Full,Medio +,6.13,LLeno,Vacio,1650 rpm
+2026-11-25 15:18:00,,,Medio +,Full,Medio +,6.83,6.33,Vacio,1653 rpm
+2026-11-25 15:20:00,,,Medio +,Full,,6.13,LLeno,Vacio,1718 rpm
+2026-11-25 15:22:00,,,Medio +,Full,Medio +,6.71,LLeno,Vacio,1682 rpm
+2026-11-25 15:24:00,,,Medio +,Full,Medio +,6.17,LLeno,Vacio,1692 rpm
+2026-11-25 15:26:00,,,Medio +,Full,,6.29,LLeno,Vacio,1545 rpm
+2026-11-25 15:28:00,,,Medio +,Full,Medio +,6.17,LLeno,2.50,1447 rpm
+2026-11-25 15:30:00,,,Medio +,Full,Medio +,6.25,6.08,Vacio,1497 rpm
+2026-11-25 15:32:00,,,Medio +,Full,,6.42,LLeno,Vacio,1516 rpm
+2026-11-25 15:34:00,,,Medio +,Full,Medio +,6.29,LLeno,Vacio,1715 rpm
+2026-11-25 15:36:00,,,Medio +,Full,Medio +,6.25,LLeno,Vacio,1390 rpm
+2026-11-25 15:38:00,,,Medio +,Full,,6.08,LLeno,Vacio,1364 rpm
+2026-11-25 15:40:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1682 rpm
+2026-11-25 15:42:00,,,Medio +,Full,Medio +,6.08,LLeno,Vacio,1803 rpm
+2026-11-25 15:44:00,,,Medio +,Full,,6.04,LLeno,Vacio,1820 rpm
+2026-11-25 15:46:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1825 rpm
+2026-11-25 15:48:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1789 rpm
+2026-11-25 15:50:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1784 rpm
+2026-11-25 15:52:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1820 rpm
+2026-11-25 15:54:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1836 rpm
+2026-11-25 15:56:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1591 rpm
+2026-11-25 15:58:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1472 rpm
+2026-11-25 16:00:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1359 rpm
+2026-11-25 16:02:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1157 rpm
+2026-11-25 16:04:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1101 rpm
+2026-11-25 16:06:00,,,,Full,Medio +,LLeno,LLeno,Vacio,1635 rpm
+2026-11-25 16:08:00,,,,Full,Medio +,LLeno,LLeno,Vacio,1646 rpm
+2026-11-25 16:10:00,,,Medio +,Full,,LLeno,LLeno,Medio +,1738 rpm
+2026-11-25 16:12:00,,,Medio +,Full,Medio +,LLeno,LLeno,1.67,1719 rpm
+2026-11-25 16:14:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1789 rpm
+2026-11-25 16:16:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1714 rpm
+2026-11-25 16:18:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1725 rpm
+2026-11-25 16:20:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1684 rpm
+2026-11-25 16:22:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1694 rpm
+2026-11-25 16:24:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1762 rpm
+2026-11-25 16:26:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1265 rpm
+2026-11-25 16:28:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1785 rpm
+2026-11-25 16:30:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1743 rpm
+2026-11-25 16:32:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1802 rpm
+2026-11-25 16:34:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1810 rpm
+2026-11-25 16:36:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1800 rpm
+2026-11-25 16:38:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1726 rpm
+2026-11-25 16:40:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1756 rpm
+2026-11-25 16:42:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1756 rpm
+2026-11-25 16:44:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1758 rpm
+2026-11-25 16:46:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1718 rpm
+2026-11-25 16:48:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1713 rpm
+2026-11-25 16:50:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1786 rpm
+2026-11-25 16:52:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1776 rpm
+2026-11-25 16:54:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1839 rpm
+2026-11-25 16:56:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1850 rpm
+2026-11-25 16:58:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1821 rpm
+2026-11-25 17:00:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1830 rpm
+2026-11-25 17:02:00,,,Medio +,Full,,LLeno,LLeno,2.50,1760 rpm
+2026-11-25 17:04:00,,,Medio +,Full,Medio +,LLeno,,Vacio,1750 rpm
+2026-11-25 17:06:00,,,Medio +,Full,Medio +,LLeno,,2.50,1741 rpm
+2026-11-25 17:08:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1784 rpm
+2026-11-25 17:10:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1825 rpm
+2026-11-25 17:12:00,,,Medio +,Full,Medio +,LLeno,LLeno,Medio +,1828 rpm
+2026-11-25 17:14:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1698 rpm
+2026-11-25 17:16:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1504 rpm
+2026-11-25 17:18:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1521 rpm
+2026-11-25 17:20:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1355 rpm
+2026-11-25 17:22:00,,,Medio +,Full,,LLeno,LLeno,2.50,1044 rpm
+2026-11-25 17:24:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1030 rpm
+2026-11-25 17:26:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,971 rpm
+2026-11-25 17:28:00,,,Medio +,Full,,LLeno,LLeno,2.50,977 rpm
+2026-11-25 17:30:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,887 rpm
+2026-11-25 17:32:00,,,Medio +,Full,Medio +,LLeno,LLeno,2.50,1232 rpm
+2026-11-25 17:34:00,,,Medio +,Full,,LLeno,LLeno,Medio +,1156 rpm
+2026-11-25 17:36:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1150 rpm
+2026-11-25 17:38:00,,,Medio +,Full,Medio +,LLeno,LLeno,,1080 rpm
+2026-11-25 17:40:00,,,Medio +,,,LLeno,LLeno,,1235 rpm
+2026-11-25 17:42:00,,,Medio +,,Medio +,LLeno,LLeno,Vacio,1329 rpm
+2026-11-25 17:44:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1354 rpm
+2026-11-25 17:46:00,,,Medio +,Full,,LLeno,LLeno,1.67,1156 rpm
+2026-11-25 17:48:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.208,1225 rpm
+2026-11-25 17:50:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1443 rpm
+2026-11-25 17:52:00,,,Medio +,Full,Medio +,LLeno,6.38,Vacio,1313 rpm
+2026-11-25 17:54:00,,,Medio +,Full,Medio +,LLeno,Full,Vacio,1392 rpm
+2026-11-25 17:56:00,,,Medio +,Full,Medio +,LLeno,Full,Vacio,1401 rpm
+2026-11-25 17:58:00,,,Medio +,Full,,LLeno,Full,Vacio,1431 rpm
+2026-11-25 18:00:00,,,Medio +,Full,Medio +,LLeno,Full,0.208,1213 rpm
+2026-11-25 18:02:00,,,Medio +,Full,Medio +,LLeno,Full,0.417,1345 rpm
+2026-11-25 18:04:00,,,Medio +,Full,,LLeno,6.11,Vacio,1433 rpm
+2026-11-25 18:06:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1420 rpm
+2026-11-25 18:08:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1502 rpm
+2026-11-25 18:10:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1494 rpm
+2026-11-25 18:12:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1456 rpm
+2026-11-25 18:14:00,,,Medio +,Full,Medio +,LLeno,LLeno,1.36,1631 rpm
+2026-11-25 18:16:00,,,Medio +,Full,Medio +,LLeno,6.94,Vacio,1532 rpm
+2026-11-25 18:18:00,,,Medio +,Full,Medio +,LLeno,Full,Vacio,1558 rpm
+2026-11-25 18:20:00,,,Medio +,Full,,LLeno,6.88,Vacio,1465 rpm
+2026-11-25 18:22:00,,,Medio +,Full,Medio +,LLeno,6.67,Vacio,1519 rpm
+2026-11-25 18:24:00,,,Medio +,Full,Medio +,LLeno,6.46,0.208,1544 rpm
+2026-11-25 18:26:00,,,Medio +,Full,,LLeno,LLeno,1.25,1487 rpm
+2026-11-25 18:28:00,,,Medio +,Full,Medio +,LLeno,6.21,Vacio,1795 rpm
+2026-11-25 18:30:00,,,Medio +,Full,Medio +,LLeno,Full,Vacio,1824 rpm
+2026-11-25 18:32:00,,,Medio +,Full,,LLeno,Full,Vacio,1814 rpm
+2026-11-25 18:34:00,,,Medio +,Full,Medio +,LLeno,6.06,Vacio,1640 rpm
+2026-11-25 18:36:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1731 rpm
+2026-11-25 18:38:00,,,Medio +,Full,,LLeno,LLeno,0.278,1724 rpm
+2026-11-25 18:40:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.455,1781 rpm
+2026-11-25 18:42:00,,,Medio +,Full,Medio +,LLeno,LLeno,1.67,1783 rpm
+2026-11-25 18:44:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.357,1817 rpm
+2026-11-25 18:46:00,,,Medio +,Full,,LLeno,LLeno,0.625,1807 rpm
+2026-11-25 18:48:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.208,1798 rpm
+2026-11-25 18:50:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1821 rpm
+2026-11-25 18:52:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.625,1810 rpm
+2026-11-25 18:54:00,,,Medio +,Full,,LLeno,LLeno,0.625,1813 rpm
+2026-11-25 18:56:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.625,1815 rpm
+2026-11-25 18:58:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.217,1812 rpm
+2026-11-25 19:00:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1833 rpm
+2026-11-25 19:02:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1818 rpm
+2026-11-25 19:04:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1625 rpm
+2026-11-25 19:06:00,,,Medio +,Full,,LLeno,LLeno,0.417,1844 rpm
+2026-11-25 19:08:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1821 rpm
+2026-11-25 19:10:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1811 rpm
+2026-11-25 19:12:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1535 rpm
+2026-11-25 19:14:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.208,1849 rpm
+2026-11-25 19:16:00,,,Medio +,,Medio +,LLeno,LLeno,0.417,1623 rpm
+2026-11-25 19:18:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1580 rpm
+2026-11-25 19:20:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1550 rpm
+2026-11-25 19:22:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1641 rpm
+2026-11-25 19:24:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1710 rpm
+2026-11-25 19:26:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1659 rpm
+2026-11-25 19:28:00,,,Medio +,Full,Medio +,LLeno,LLeno,Muy Bajo,1741 rpm
+2026-11-25 19:30:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.833,1657 rpm
+2026-11-25 19:32:00,,,Medio +,Full,Medio +,LLeno,LLeno,0.750,1684 rpm
+2026-11-25 19:34:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1594 rpm
+2026-11-25 19:36:00,,,Medio +,Full,Medio +,LLeno,LLeno,Vacio,1755 rpm
+2026-11-25 19:38:00,,,Medio +,Full,4.50,LLeno,LLeno,Vacio,1660 rpm
+2026-11-25 19:40:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1706 rpm
+2026-11-25 19:42:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.217,1714 rpm
+2026-11-25 19:44:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.625,1831 rpm
+2026-11-25 19:46:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.500,1842 rpm
+2026-11-25 19:48:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1724 rpm
+2026-11-25 19:50:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.833,1683 rpm
+2026-11-25 19:52:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.208,1750 rpm
+2026-11-25 19:54:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.208,1745 rpm
+2026-11-25 19:56:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.417,1722 rpm
+2026-11-25 19:58:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1672 rpm
+2026-11-25 20:00:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1619 rpm
+2026-11-25 20:02:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1551 rpm
+2026-11-25 20:04:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1612 rpm
+2026-11-25 20:06:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1678 rpm
+2026-11-25 20:08:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1633 rpm
+2026-11-25 20:10:00,,,Medio +,Full,,LLeno,LLeno,0.294,1642 rpm
+2026-11-25 20:12:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.417,1664 rpm
+2026-11-25 20:14:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.833,1673 rpm
+2026-11-25 20:16:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1705 rpm
+2026-11-25 20:18:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1809 rpm
+2026-11-25 20:20:00,,,Medio +,Full,,LLeno,LLeno,Vacio,1785 rpm
+2026-11-25 20:22:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1847 rpm
+2026-11-25 20:24:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.714,1845 rpm
+2026-11-25 20:26:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.417,1829 rpm
+2026-11-25 20:28:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1836 rpm
+2026-11-25 20:30:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1793 rpm
+2026-11-25 20:32:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.250,1626 rpm
+2026-11-25 20:34:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.625,1658 rpm
+2026-11-25 20:36:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1615 rpm
+2026-11-25 20:38:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.208,1594 rpm
+2026-11-25 20:40:00,,,Medio +,,Medio ,LLeno,LLeno,0.833,1784 rpm
+2026-11-25 20:42:00,,,Medio +,,Medio ,LLeno,LLeno,0.208,1823 rpm
+2026-11-25 20:44:00,,,Medio +,Full,Medio ,LLeno,LLeno,0.500,1794 rpm
+2026-11-25 20:46:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1782 rpm
+2026-11-25 20:48:00,,,Medio +,Full,,LLeno,LLeno,2.50,1609 rpm
+2026-11-25 20:50:00,,,Medio +,Full,Medio ,LLeno,LLeno,Bajo,1729 rpm
+2026-11-25 20:52:00,,,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1767 rpm
+2026-11-25 20:54:00,,Full,Medio +,Full,,LLeno,LLeno,Vacio,1681 rpm
+2026-11-25 20:56:00,,Full,Medio +,Full,Medio ,LLeno,LLeno,0.500,1699 rpm
+2026-11-25 20:58:00,,Full,Medio +,Full,Medio ,LLeno,LLeno,Vacio,1771 rpm
+2026-11-25 21:00:00,,Full,Medio +,Full,,LLeno,LLeno,Vacio,1331 rpm
+2026-11-25 21:02:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1802 rpm
+2026-11-25 21:04:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1747 rpm
+2026-11-25 21:06:00,,Full,Medio +,Full,,LLeno,LLeno,2.50,1415 rpm
+2026-11-25 21:08:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,1.25,1746 rpm
+2026-11-25 21:10:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,1.88,1674 rpm
+2026-11-25 21:12:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,0.417,1644 rpm
+2026-11-25 21:14:00,,Full,Medio +,Full,,LLeno,LLeno,Vacio,1274 rpm
+2026-11-25 21:16:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,0.952,1567 rpm
+2026-11-25 21:18:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,0.833,1653 rpm
+2026-11-25 21:20:00,,Full,Medio +,Full,,LLeno,LLeno,0.625,1777 rpm
+2026-11-25 21:22:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,1.04,1660 rpm
+2026-11-25 21:24:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,1.46,1653 rpm
+2026-11-25 21:26:00,,Full,Medio +,Full,,LLeno,LLeno,1.25,1495 rpm
+2026-11-25 21:28:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1630 rpm
+2026-11-25 21:30:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,0.208,1520 rpm
+2026-11-25 21:32:00,,Full,Medio +,Full,,LLeno,LLeno,Vacio,1752 rpm
+2026-11-25 21:34:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1722 rpm
+2026-11-25 21:36:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1750 rpm
+2026-11-25 21:38:00,,Full,Medio +,Full,,LLeno,LLeno,0.208,1807 rpm
+2026-11-25 21:40:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1754 rpm
+2026-11-25 21:42:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,0.833,1718 rpm
+2026-11-25 21:44:00,,Full,Medio +,Full,,LLeno,LLeno,Vacio,1800 rpm
+2026-11-25 21:46:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,1.25,1798 rpm
+2026-11-25 21:48:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,Vacio,1813 rpm
+2026-11-25 21:50:00,,Full,Medio +,Full,Medio -,LLeno,LLeno,2.50,1833 rpm
+2026-11-25 21:52:00,,Full,Medio +,Full,,LLeno,LLeno,2.50,1786 rpm
+2026-11-25 21:54:00,,Full,Medio +,Full,,LLeno,LLeno,1.67,1524 rpm
+2026-11-25 21:56:00,,Full,Medio +,Full,,LLeno,LLeno,Vacio,1779 rpm
+2026-11-25 21:58:00,,Full,Medio +,Full,,LLeno,LLeno,4.05,1696 rpm
+2026-11-25 22:00:00,,Full,Medio +,Full,,LLeno,5.58,3.75,1712 rpm
+2026-11-25 22:02:00,,Full,Medio +,Full,,LLeno,Medio +,4.17,1647 rpm
+2026-11-25 22:04:00,,Full,Medio +,Full,,LLeno,Medio +,3.33,1571 rpm
+2026-11-25 22:06:00,,Full,Medio +,Full,,LLeno,Medio +,4.79,1488 rpm
+2026-11-25 22:08:00,,Full,Medio +,Full,,LLeno,Medio +,4.38,1483 rpm
+2026-11-25 22:10:00,,Full,Medio +,Full,,,Medio +,Medio +,1742 rpm
+2026-11-25 22:12:00,,Full,Medio +,Full,,LLeno,Medio +,4.52,1659 rpm
+2026-11-25 22:14:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1650 rpm
+2026-11-25 22:16:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1703 rpm
+2026-11-25 22:18:00,,Full,Medio +,Full,,LLeno,Medio +,3.75,1482 rpm
+2026-11-25 22:20:00,,Full,Medio +,Full,,LLeno,Medio +,4.38,1444 rpm
+2026-11-25 22:22:00,,Full,Medio +,Full,Full,LLeno,Medio +,Medio +,1556 rpm
+2026-11-25 22:24:00,,Full,Medio +,Full,Full,LLeno,Medio +,Medio +,1562 rpm
+2026-11-25 22:26:00,,Full,Medio +,Full,Full,LLeno,Medio +,Medio +,1705 rpm
+2026-11-25 22:28:00,,Full,Medio +,Full,Full,LLeno,Medio +,Medio +,1714 rpm
+2026-11-25 22:30:00,,Full,Medio +,Full,Full,LLeno,Medio +,Medio +,1580 rpm
+2026-11-25 22:32:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1496 rpm
+2026-11-25 22:34:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1725 rpm
+2026-11-25 22:36:00,,Full,Medio +,Full,,LLeno,Medio +,4.76,1771 rpm
+2026-11-25 22:38:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1749 rpm
+2026-11-25 22:40:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1765 rpm
+2026-11-25 22:42:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1581 rpm
+2026-11-25 22:44:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1599 rpm
+2026-11-25 22:46:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1639 rpm
+2026-11-25 22:48:00,,Full,Medio +,Full,,LLeno,Medio +,4.79,1694 rpm
+2026-11-25 22:50:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1698 rpm
+2026-11-25 22:52:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1578 rpm
+2026-11-25 22:54:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1518 rpm
+2026-11-25 22:56:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1529 rpm
+2026-11-25 22:58:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1496 rpm
+2026-11-25 23:00:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1624 rpm
+2026-11-25 23:02:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1536 rpm
+2026-11-25 23:04:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1538 rpm
+2026-11-25 23:06:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1464 rpm
+2026-11-25 23:08:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1704 rpm
+2026-11-25 23:10:00,LLeno,Full,Medio +,Full,,LLeno,Medio +,Medio +,1577 rpm
+2026-11-25 23:12:00,LLeno,Full,Medio +,Full,,5.77,Medio +,Medio +,1510 rpm
+2026-11-25 23:14:00,LLeno,Full,Medio +,Full,,Medio +,Medio +,Medio +,1496 rpm
+2026-11-25 23:16:00,LLeno,Full,Medio +,Full,,Medio +,Medio +,Medio +,1384 rpm
+2026-11-25 23:18:00,LLeno,Full,Medio +,Full,,Medio +,Medio +,Medio +,1337 rpm
+2026-11-25 23:20:00,LLeno,Full,Medio +,Full,,Medio +,Medio +,Medio +,1500 rpm
+2026-11-25 23:22:00,LLeno,Full,Medio +,Full,,Medio +,Medio +,Medio +,1540 rpm
+2026-11-25 23:24:00,LLeno,Full,Medio +,Full,,5.50,Medio +,Medio +,1214 rpm
+2026-11-25 23:26:00,4.60,Full,Medio +,Full,,LLeno,Medio +,Medio +,1403 rpm
+2026-11-25 23:28:00,6.25,Full,Medio +,Full,,LLeno,Medio +,Medio +,1765 rpm
+2026-11-25 23:30:00,6.33,Full,Medio +,Full,,5.25,Medio +,Medio +,1631 rpm
+2026-11-25 23:32:00,,Full,Medio +,Full,,5.42,Medio +,Medio +,1730 rpm
+2026-11-25 23:34:00,,Full,Medio +,Full,,LLeno,Medio +,Medio +,1654 rpm
+2026-11-25 23:36:00,,Full,Medio +,Full,,5.06,Medio +,Medio +,1650 rpm
+2026-11-25 23:38:00,,Full,Medio +,Full,,Medio +,Medio +,Medio +,1738 rpm
+2026-11-25 23:40:00,,Full,4.08,Full,,Medio +,Medio +,Medio +,1742 rpm
+2026-11-25 23:42:00,6.67,Full,Medio ,Full,,Medio +,Medio +,Medio +,1660 rpm
+2026-11-25 23:44:00,Full,Full,Medio ,Full,,Medio +,Medio +,Medio +,1751 rpm
+2026-11-25 23:46:00,Full,Full,Medio ,Full,,Medio +,Medio +,Medio +,1741 rpm
+2026-11-25 23:48:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1724 rpm
+2026-11-25 23:50:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1689 rpm
+2026-11-25 23:52:00,6.30,Full,Medio ,Full,,Medio +,Medio +,Medio +,1707 rpm
+2026-11-25 23:54:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1702 rpm
+2026-11-25 23:56:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1687 rpm
+2026-11-25 23:58:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1742 rpm
+2026-11-26 00:00:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1707 rpm
+2026-11-26 00:02:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1647 rpm
+2026-11-26 00:04:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1784 rpm
+2026-11-26 00:06:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1755 rpm
+2026-11-26 00:08:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1715 rpm
+2026-11-26 00:10:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1635 rpm
+2026-11-26 00:12:00,6.06,Full,Medio ,Full,,Medio +,Medio +,Medio +,1681 rpm
+2026-11-26 00:14:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1399 rpm
+2026-11-26 00:16:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1426 rpm
+2026-11-26 00:18:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1508 rpm
+2026-11-26 00:20:00,6.08,Full,Medio ,Full,,Medio +,Medio +,Medio +,1407 rpm
+2026-11-26 00:22:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1475 rpm
+2026-11-26 00:24:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1635 rpm
+2026-11-26 00:26:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1688 rpm
+2026-11-26 00:28:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1701 rpm
+2026-11-26 00:30:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1720 rpm
+2026-11-26 00:32:00,6.50,Full,Medio ,Full,,Medio +,Medio +,Medio +,1700 rpm
+2026-11-26 00:34:00,6.50,Full,Medio ,Full,,Medio +,Medio +,Medio +,1729 rpm
+2026-11-26 00:36:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1654 rpm
+2026-11-26 00:38:00,,Full,Medio ,Full,,Medio +,Medio +,Medio +,1659 rpm
+2026-11-26 00:40:00,,Full,Medio ,Full,Full,Medio +,Medio +,Medio +,1729 rpm
+2026-11-26 00:42:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio +,1789 rpm
+2026-11-26 00:44:00,LLeno,Full,Medio ,Full,Full,Medio +,Medio +,Medio +,1675 rpm
+2026-11-26 00:46:00,LLeno,Full,Medio ,Full,Full,Medio +,Medio +,Medio +,1725 rpm
+2026-11-26 00:48:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,4.50,1618 rpm
+2026-11-26 00:50:00,,Full,Medio ,Full,Full,Medio +,Medio +,Medio ,1628 rpm
+2026-11-26 00:52:00,LLeno,Full,Medio ,Full,LLeno,Medio +,Medio +,Medio ,1608 rpm
+2026-11-26 00:54:00,,Full,Medio ,Full,,Medio +,Medio +,Medio ,1594 rpm
+2026-11-26 00:56:00,LLeno,Full,Medio ,Full,Full,Medio +,Medio +,Medio ,1742 rpm
+2026-11-26 00:58:00,LLeno,Full,Medio ,Full,Full,Medio +,Medio +,Medio ,1738 rpm
+2026-11-26 01:00:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,Medio ,1730 rpm
+2026-11-26 01:02:00,LLeno,Full,Medio ,Full,LLeno,Medio +,Medio +,6.24,790 rpm
+2026-11-26 01:04:00,,Full,Medio ,Full,Full,Medio +,Medio +,Full,1427 rpm
+2026-11-26 01:06:00,,Full,Medio ,Full,,Medio +,Medio +,Full,1539 rpm
+2026-11-26 01:08:00,LLeno,Full,Medio ,Full,Full,Medio +,Medio +,,1673 rpm
+2026-11-26 01:10:00,,Full,Medio ,Full,LLeno,Medio +,Medio +,,1592 rpm
+2026-11-26 01:12:00,LLeno,Full,Medio ,Full,,Medio +,Medio +,,1536 rpm
+2026-11-26 01:14:00,,Full,Medio ,Full,LLeno,Medio +,Medio +,,1564 rpm
+2026-11-26 01:16:00,,Full,Medio ,Full,LLeno,Medio +,Medio +,,1728 rpm
+2026-11-26 01:18:00,,Full,Medio ,Full,,Medio +,Medio +,,1774 rpm
+2026-11-26 01:20:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,,1543 rpm
+2026-11-26 01:22:00,LLeno,Full,Medio -,Full,LLeno,Medio +,Medio +,,1690 rpm
+2026-11-26 01:24:00,,Full,Medio -,Full,,Medio +,Medio +,,1597 rpm
+2026-11-26 01:26:00,LLeno,Full,Medio -,Full,LLeno,Medio +,Medio +,,1664 rpm
+2026-11-26 01:28:00,LLeno,Full,Medio -,Full,LLeno,Medio +,3.80,,1683 rpm
+2026-11-26 01:30:00,,,Medio -,Full,LLeno,Medio +,Medio +,,1617 rpm
+2026-11-26 01:32:00,LLeno,,Medio -,Full,,Medio +,Medio +,,1693 rpm
+2026-11-26 01:34:00,,Full,Medio -,Full,LLeno,Medio +,,,1762 rpm
+2026-11-26 01:36:00,,Full,Medio -,Full,LLeno,Medio +,,,1654 rpm
+2026-11-26 01:38:00,LLeno,Full,Medio -,Full,,Medio +,,,1635 rpm
+2026-11-26 01:40:00,,Full,Medio -,Full,LLeno,Medio +,,,1749 rpm
+2026-11-26 01:42:00,LLeno,Full,Medio -,Full,LLeno,Medio +,,,1693 rpm
+2026-11-26 01:44:00,,Full,Medio -,Full,,Medio +,,,1652 rpm
+2026-11-26 01:46:00,LLeno,Full,Medio -,Full,LLeno,Medio +,,,1663 rpm
+2026-11-26 01:48:00,,Full,Medio -,Full,LLeno,Medio +,,Full,1712 rpm
+2026-11-26 01:50:00,,Full,Medio -,Full,,Medio +,,Full,1530 rpm
+2026-11-26 01:52:00,LLeno,Full,Medio -,Full,LLeno,Medio +,,Full,1654 rpm
+2026-11-26 01:54:00,LLeno,Full,Medio -,Full,LLeno,Medio +,,Full,1706 rpm
+2026-11-26 01:56:00,Vacio,Full,Medio -,Full,,Medio +,,Full,1439 rpm
+2026-11-26 01:58:00,5.33,Full,Medio -,Full,Full,Medio +,,Full,1160 rpm
+2026-11-26 02:00:00,LLeno,,Medio -,Full,LLeno,Medio +,,Full,841 rpm
+2026-11-26 02:02:00,LLeno,,Medio -,Full,,Medio +,,Full,1295 rpm
+2026-11-26 02:04:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.05,1780 rpm
+2026-11-26 02:06:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.80,1693 rpm
+2026-11-26 02:08:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.75,1720 rpm
+2026-11-26 02:10:00,,Full,Medio -,Full,,Medio +,Medio +,LLeno,1659 rpm
+2026-11-26 02:12:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,LLeno,1686 rpm
+2026-11-26 02:14:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.92,1765 rpm
+2026-11-26 02:16:00,,Full,Medio -,Full,,Medio +,Medio +,6.83,1432 rpm
+2026-11-26 02:18:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.92,1424 rpm
+2026-11-26 02:20:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.54,1407 rpm
+2026-11-26 02:22:00,,Full,Medio -,Full,,Medio +,3.75,6.50,1227 rpm
+2026-11-26 02:24:00,,Full,Medio -,Full,LLeno,Medio +,3.60,6.36,1249 rpm
+2026-11-26 02:26:00,,Full,Medio -,Full,LLeno,Medio +,Medio +,6.21,1369 rpm
+2026-11-26 02:28:00,,Full,Medio -,Full,,Medio +,Medio +,6.50,1424 rpm
+2026-11-26 02:30:00,,Full,Medio -,Full,LLeno,Medio +,,6.50,1612 rpm
+2026-11-26 02:32:00,,Full,Medio -,Full,LLeno,Medio +,,6.50,1577 rpm
+2026-11-26 02:34:00,,Full,Medio -,Full,,Medio +,,LLeno,1454 rpm
+2026-11-26 02:36:00,,Full,Medio -,Full,LLeno,Medio +,,LLeno,1669 rpm
+2026-11-26 02:38:00,,Full,Medio -,Full,LLeno,Medio +,,LLeno,1692 rpm
+2026-11-26 02:40:00,,Full,Medio -,Full,,Medio +,,LLeno,1313 rpm
+2026-11-26 02:42:00,,Full,Medio -,Full,LLeno,Medio +,,LLeno,1513 rpm
+2026-11-26 02:44:00,,Full,Medio -,Full,LLeno,Medio +,,LLeno,1486 rpm
+2026-11-26 02:46:00,,Full,Medio -,Full,,Medio +,,LLeno,1333 rpm
+2026-11-26 02:48:00,,,Medio -,Full,LLeno,Medio +,,LLeno,1196 rpm
+2026-11-26 02:50:00,,,,Full,LLeno,Medio +,,LLeno,1824 rpm
+2026-11-26 02:52:00,,,Full,Full,LLeno,Medio +,,LLeno,1253 rpm
+2026-11-26 02:54:00,,,Full,Full,,Medio +,,LLeno,1032 rpm
+2026-11-26 02:56:00,,,,Full,LLeno,Medio +,,LLeno,1787 rpm
+2026-11-26 02:58:00,,,,Full,LLeno,Medio +,,LLeno,1416 rpm
+2026-11-26 03:00:00,,,,Full,,Medio +,,LLeno,1557 rpm
+2026-11-26 03:02:00,,,,Full,LLeno,Medio +,,6.04,1336 rpm
+2026-11-26 03:04:00,,,,Full,LLeno,Medio +,Medio +,LLeno,1227 rpm
+2026-11-26 03:06:00,,,,Full,,Medio +,Medio +,LLeno,1064 rpm
+2026-11-26 03:08:00,,,,Full,LLeno,Medio +,Medio +,LLeno,1477 rpm
+2026-11-26 03:10:00,,,,Full,LLeno,Medio +,Medio +,LLeno,1513 rpm
+2026-11-26 03:12:00,,,,Full,,Medio +,Medio +,LLeno,1434 rpm
+2026-11-26 03:14:00,,,,Full,LLeno,Medio +,,LLeno,1683 rpm
+2026-11-26 03:16:00,,,,Full,LLeno,Medio +,,LLeno,1668 rpm
+2026-11-26 03:18:00,,,,Full,,Medio +,,LLeno,1653 rpm
+2026-11-26 03:20:00,LLeno,,,Full,LLeno,Medio +,,LLeno,1105 rpm
+2026-11-26 03:22:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1093 rpm
+2026-11-26 03:24:00,LLeno,,Full,Full,,Medio +,,LLeno,1261 rpm
+2026-11-26 03:26:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1679 rpm
+2026-11-26 03:28:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1695 rpm
+2026-11-26 03:30:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1584 rpm
+2026-11-26 03:32:00,,,Full,Full,,Medio +,,LLeno,1639 rpm
+2026-11-26 03:34:00,,,Full,Full,LLeno,Medio +,,6.11,1810 rpm
+2026-11-26 03:36:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1823 rpm
+2026-11-26 03:38:00,,,Full,Full,,Medio +,,LLeno,1831 rpm
+2026-11-26 03:40:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1839 rpm
+2026-11-26 03:42:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1846 rpm
+2026-11-26 03:44:00,,,Full,Full,,Medio +,,LLeno,1837 rpm
+2026-11-26 03:46:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1833 rpm
+2026-11-26 03:48:00,,,Full,Full,LLeno,Medio +,,LLeno,1821 rpm
+2026-11-26 03:50:00,LLeno,,Full,Full,,Medio +,,LLeno,1814 rpm
+2026-11-26 03:52:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1761 rpm
+2026-11-26 03:54:00,,,Full,Full,LLeno,Medio +,,LLeno,1857 rpm
+2026-11-26 03:56:00,LLeno,,Full,Full,,Medio +,,LLeno,1830 rpm
+2026-11-26 03:58:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1853 rpm
+2026-11-26 04:00:00,LLeno,,6.67,Full,LLeno,Medio +,,LLeno,1833 rpm
+2026-11-26 04:02:00,,,Full,Full,LLeno,Medio +,,LLeno,1834 rpm
+2026-11-26 04:04:00,,,Full,Full,,Medio +,,LLeno,1697 rpm
+2026-11-26 04:06:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1709 rpm
+2026-11-26 04:08:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1780 rpm
+2026-11-26 04:10:00,LLeno,,Full,Full,,Medio +,,LLeno,1763 rpm
+2026-11-26 04:12:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1815 rpm
+2026-11-26 04:14:00,LLeno,,Full,Full,LLeno,Medio +,,LLeno,1819 rpm
+2026-11-26 04:16:00,LLeno,,6.96,Full,,Medio +,,LLeno,1800 rpm
+2026-11-26 04:18:00,LLeno,,6.96,Full,LLeno,Medio +,,LLeno,1828 rpm
+2026-11-26 04:20:00,LLeno,,6.72,Full,LLeno,Medio +,,LLeno,1797 rpm
+2026-11-26 04:22:00,,,Full,Full,,Medio +,,LLeno,1693 rpm
+2026-11-26 04:24:00,,,6.33,Full,LLeno,Medio +,,LLeno,1751 rpm
+2026-11-26 04:26:00,LLeno,,6.47,Full,LLeno,Medio +,,6.17,1826 rpm
+2026-11-26 04:28:00,,,6.46,Full,,Medio +,,LLeno,1735 rpm
+2026-11-26 04:30:00,LLeno,,6.42,Full,LLeno,Medio +,,LLeno,1740 rpm
+2026-11-26 04:32:00,LLeno,,6.72,Full,LLeno,Medio +,,LLeno,1751 rpm
+2026-11-26 04:34:00,,,6.29,Full,LLeno,Medio +,,LLeno,1683 rpm
+2026-11-26 04:36:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1675 rpm
+2026-11-26 04:38:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1641 rpm
+2026-11-26 04:40:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1760 rpm
+2026-11-26 04:42:00,,,LLeno,Full,,Medio +,,LLeno,1585 rpm
+2026-11-26 04:44:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1615 rpm
+2026-11-26 04:46:00,LLeno,,LLeno,Full,LLeno,Medio +,,,1636 rpm
+2026-11-26 04:48:00,LLeno,,6.21,Full,,Medio +,,LLeno,1530 rpm
+2026-11-26 04:50:00,LLeno,,6.21,Full,LLeno,Medio +,,LLeno,1532 rpm
+2026-11-26 04:52:00,LLeno,,6.17,Full,LLeno,Medio +,,LLeno,1523 rpm
+2026-11-26 04:54:00,LLeno,,6.07,Full,,Medio +,,LLeno,1524 rpm
+2026-11-26 04:56:00,LLeno,,6.13,Full,LLeno,Medio +,,LLeno,1523 rpm
+2026-11-26 04:58:00,LLeno,,6.08,Full,LLeno,Medio +,,LLeno,1529 rpm
+2026-11-26 05:00:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1489 rpm
+2026-11-26 05:02:00,LLeno,,6.12,Full,,Medio +,,LLeno,1533 rpm
+2026-11-26 05:04:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1657 rpm
+2026-11-26 05:06:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1747 rpm
+2026-11-26 05:08:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1725 rpm
+2026-11-26 05:10:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1758 rpm
+2026-11-26 05:12:00,LLeno,,6.33,Full,LLeno,Medio +,,LLeno,1775 rpm
+2026-11-26 05:14:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1814 rpm
+2026-11-26 05:16:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1824 rpm
+2026-11-26 05:18:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1827 rpm
+2026-11-26 05:20:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1780 rpm
+2026-11-26 05:22:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1316 rpm
+2026-11-26 05:24:00,,,LLeno,Full,LLeno,,,LLeno,1087 rpm
+2026-11-26 05:26:00,LLeno,,LLeno,Full,,,,LLeno,988 rpm
+2026-11-26 05:28:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1107 rpm
+2026-11-26 05:30:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,963 rpm
+2026-11-26 05:32:00,,,LLeno,Full,,Medio +,,LLeno,949 rpm
+2026-11-26 05:34:00,,,LLeno,Full,LLeno,Medio +,,LLeno,969 rpm
+2026-11-26 05:36:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1129 rpm
+2026-11-26 05:38:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1097 rpm
+2026-11-26 05:40:00,LLeno,,LLeno,Full,,Medio +,,LLeno,859 rpm
+2026-11-26 05:42:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1015 rpm
+2026-11-26 05:44:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1005 rpm
+2026-11-26 05:46:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1009 rpm
+2026-11-26 05:48:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,982 rpm
+2026-11-26 05:50:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,973 rpm
+2026-11-26 05:52:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1241 rpm
+2026-11-26 05:54:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1322 rpm
+2026-11-26 05:56:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1197 rpm
+2026-11-26 05:58:00,,,LLeno,Full,,Medio +,,LLeno,942 rpm
+2026-11-26 06:00:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1003 rpm
+2026-11-26 06:02:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1006 rpm
+2026-11-26 06:04:00,,,LLeno,Full,,Medio +,,LLeno,1141 rpm
+2026-11-26 06:06:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1419 rpm
+2026-11-26 06:08:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1518 rpm
+2026-11-26 06:10:00,,,LLeno,Full,,Medio +,,LLeno,1471 rpm
+2026-11-26 06:12:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1734 rpm
+2026-11-26 06:14:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1602 rpm
+2026-11-26 06:16:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1558 rpm
+2026-11-26 06:18:00,,,LLeno,Full,,Medio +,,LLeno,1535 rpm
+2026-11-26 06:20:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1549 rpm
+2026-11-26 06:22:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1437 rpm
+2026-11-26 06:24:00,,,LLeno,Full,,Medio +,,LLeno,1392 rpm
+2026-11-26 06:26:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,973 rpm
+2026-11-26 06:28:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1133 rpm
+2026-11-26 06:30:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1358 rpm
+2026-11-26 06:32:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1704 rpm
+2026-11-26 06:34:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1705 rpm
+2026-11-26 06:36:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1764 rpm
+2026-11-26 06:38:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1749 rpm
+2026-11-26 06:40:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1660 rpm
+2026-11-26 06:42:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1742 rpm
+2026-11-26 06:44:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1698 rpm
+2026-11-26 06:46:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1708 rpm
+2026-11-26 06:48:00,,,LLeno,Full,,Medio +,,LLeno,1727 rpm
+2026-11-26 06:50:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1739 rpm
+2026-11-26 06:52:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1744 rpm
+2026-11-26 06:54:00,,,LLeno,Full,,Medio +,,LLeno,1730 rpm
+2026-11-26 06:56:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1712 rpm
+2026-11-26 06:58:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1654 rpm
+2026-11-26 07:00:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1599 rpm
+2026-11-26 07:02:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1758 rpm
+2026-11-26 07:04:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1819 rpm
+2026-11-26 07:06:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1791 rpm
+2026-11-26 07:08:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1822 rpm
+2026-11-26 07:10:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1797 rpm
+2026-11-26 07:12:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1737 rpm
+2026-11-26 07:14:00,,,LLeno,Full,,Medio +,,LLeno,1717 rpm
+2026-11-26 07:16:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1692 rpm
+2026-11-26 07:18:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1748 rpm
+2026-11-26 07:20:00,,,LLeno,Full,,Medio +,,LLeno,1805 rpm
+2026-11-26 07:22:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1786 rpm
+2026-11-26 07:24:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1769 rpm
+2026-11-26 07:26:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1501 rpm
+2026-11-26 07:28:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1747 rpm
+2026-11-26 07:30:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1769 rpm
+2026-11-26 07:32:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1822 rpm
+2026-11-26 07:34:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1817 rpm
+2026-11-26 07:36:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1779 rpm
+2026-11-26 07:38:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1811 rpm
+2026-11-26 07:40:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1740 rpm
+2026-11-26 07:42:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1794 rpm
+2026-11-26 07:44:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1771 rpm
+2026-11-26 07:46:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1674 rpm
+2026-11-26 07:48:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1680 rpm
+2026-11-26 07:50:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1673 rpm
+2026-11-26 07:52:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1656 rpm
+2026-11-26 07:54:00,,,LLeno,Full,LLeno,Medio +,,LLeno,1716 rpm
+2026-11-26 07:56:00,LLeno,,LLeno,,LLeno,Medio +,,LLeno,1834 rpm
+2026-11-26 07:58:00,,,LLeno,,,Medio +,,LLeno,1810 rpm
+2026-11-26 08:00:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1809 rpm
+2026-11-26 08:02:00,LLeno,,LLeno,Full,Medio +,Medio +,,LLeno,1828 rpm
+2026-11-26 08:04:00,5.60,,LLeno,Full,,Medio +,,LLeno,1759 rpm
+2026-11-26 08:06:00,1.64,,LLeno,Full,Medio +,Medio +,,LLeno,1638 rpm
+2026-11-26 08:08:00,Medio -,,LLeno,Full,Medio +,Medio +,,LLeno,1744 rpm
+2026-11-26 08:10:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1187 rpm
+2026-11-26 08:12:00,Medio -,,LLeno,Full,Vacio,Medio +,,LLeno,1160 rpm
+2026-11-26 08:14:00,Medio ,,LLeno,Full,Medio +,Medio +,,LLeno,1064 rpm
+2026-11-26 08:16:00,4.80,,LLeno,Full,Medio +,Medio +,,LLeno,1507 rpm
+2026-11-26 08:18:00,5.50,,LLeno,Full,,Medio +,,LLeno,1408 rpm
+2026-11-26 08:20:00,LLeno,,LLeno,Full,Medio +,Medio +,,LLeno,1732 rpm
+2026-11-26 08:22:00,Medio -,,LLeno,Full,LLeno,Medio +,,LLeno,1762 rpm
+2026-11-26 08:24:00,,,LLeno,Full,,Medio +,,LLeno,1728 rpm
+2026-11-26 08:26:00,LLeno,,LLeno,Full,LLeno,Medio +,,LLeno,1799 rpm
+2026-11-26 08:28:00,5.60,,LLeno,Full,Medio +,Medio +,,LLeno,1812 rpm
+2026-11-26 08:30:00,LLeno,,LLeno,Full,,Medio +,,LLeno,1778 rpm
+2026-11-26 08:32:00,Medio -,,LLeno,Full,Medio +,Medio +,,LLeno,1742 rpm
+2026-11-26 08:34:00,Medio ,,LLeno,Full,Vacio,Medio +,,LLeno,1805 rpm
+2026-11-26 08:36:00,Vacio,,LLeno,Full,,Medio +,,LLeno,1787 rpm
+2026-11-26 08:38:00,,,LLeno,Full,Medio +,Medio +,,LLeno,1786 rpm
+2026-11-26 08:40:00,,,LLeno,Full,Medio +,Medio +,,LLeno,1808 rpm
+2026-11-26 08:42:00,Bajo,,LLeno,Full,,Medio +,,LLeno,1807 rpm
+2026-11-26 08:44:00,,,LLeno,Full,Vacio,Medio +,,LLeno,1820 rpm
+2026-11-26 08:46:00,Vacio,,LLeno,Full,Vacio,Medio +,,LLeno,1664 rpm
+2026-11-26 08:48:00,Vacio,,LLeno,Full,Medio +,Medio +,,LLeno,1733 rpm
+2026-11-26 08:50:00,Vacio,,LLeno,Full,,Medio +,,LLeno,1719 rpm
+2026-11-26 08:52:00,,,LLeno,Full,Medio +,Medio +,,LLeno,1781 rpm
+2026-11-26 08:54:00,,,LLeno,Full,Medio +,Medio +,,LLeno,1813 rpm
+2026-11-26 08:56:00,Vacio,,LLeno,Full,,Medio +,,LLeno,1766 rpm
+2026-11-26 08:58:00,,,LLeno,Full,Medio +,Medio +,,LLeno,1787 rpm
+2026-11-26 09:00:00,Vacio,,LLeno,Full,Medio +,Medio +,,LLeno,1829 rpm
+2026-11-26 09:02:00,Vacio,,LLeno,Full,,Medio +,,LLeno,1796 rpm
+2026-11-26 09:04:00,,,,Full,,,,LLeno,1862 rpm
+
